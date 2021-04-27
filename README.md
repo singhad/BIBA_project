@@ -11,15 +11,15 @@ Mockaroo was used to generate data that was then processed through the data clea
 
 
 ### Dashboards produced:
-![dashboard_1](/images/Dashboard/1.png)
-![dashboard_2](/images/Dashboard/2.png)
-![dashboard_3](/images/Dashboard/3.png)
-![dashboard_4](/images/Dashboard/4.png)
-![dashboard_5](/images/Dashboard/5.png)
-![dashboard_6](/images/Dashboard/6.png)
+![dashboard_1](/images/Dashboards/1.png)
+![dashboard_2](/images/Dashboards/2.png)
+![dashboard_3](/images/Dashboards/3.png)
+![dashboard_4](/images/Dashboards/4.png)
+![dashboard_5](/images/Dashboards/5.png)
+![dashboard_6](/images/Dashboards/6.png)
 
 
 ### Report:
 The final reports that were submitted for the BIBA project can be viewed/downloaded from the following links:
-- [Specification Report]()
-- [Implementation report]()
+- [Specification Report](https://github.com/singhad/BIBA_project/raw/main/BIBA_Specification_Report.pdf)
+- [Implementation report](https://github.com/singhad/BIBA_project/raw/main/BIBA_Implementation_Report.pdf)
