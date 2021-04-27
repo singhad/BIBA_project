@@ -1,0 +1,801 @@
+Lead_ID,Product_ID,Full Name,First Name,Last Name,Product Name,Owner,Status,Created On
+LE-531-09903,A-4r4833h7,Leonora Cometti,Leonora,Cometti,Mark-1,Vishal Shakya,Qualified,10-06-2017
+LE-507-46106,SP-7g2488r5,Matelda Cottham,Matelda,Cottham,Print Bed,Vikas Kishanrao Thamke,Qualified,9/22/2017
+LE-479-49953,SP-9o2014z5,Nelle Brookshaw,Nelle,Brookshaw,Frame,Vishal Shakya,Qualified,3/28/2017
+LE-554-97497,SP-1j3802q0,Halsy Aireton,Halsy,Aireton,Belts,Amandeep Singh,Qualified,5/15/2017
+LE-054-33465,A-9o2147a8,Osbourn Postlethwaite,Osbourn,Postlethwaite,Mark-50,Amandeep Singh,Qualified,5/20/2017
+LE-538-14152,A-9i3568y3,Hi Rohmer,Hi,Rohmer,Mark-5,Vikas Kishanrao Thamke,Qualified,12/23/2017
+LE-452-27589,A-4r4833h7,Josh Guerrazzi,Josh,Guerrazzi,Mark-1,Amandeep Singh,Qualified,8/22/2017
+LE-201-26087,SP-1j3802q0,Vittoria Folan,Vittoria,Folan,Belts,Amandeep Singh,Qualified,02-04-2017
+LE-340-71737,A-4r4833h7,Raoul ducarme,Raoul,ducarme,Mark-1,Amandeep Singh,Qualified,2/26/2018
+LE-184-60823,A-4r4833h7,Caldwell Kenzie,Caldwell,Kenzie,Mark-1,Amandeep Singh,Qualified,2/19/2017
+LE-365-34728,SP-1j3802q0,Devan Mayte,Devan,Mayte,Belts,Amandeep Singh,Qualified,7/28/2017
+LE-920-65471,A-9o2147a8,Farrah Dmych,Farrah,Dmych,Mark-50,Hitesh Madhukar Patil,Qualified,01-08-2018
+LE-169-04046,A-9o2147a8,Wes Dillet,Wes,Dillet,Mark-50,Vishal Shakya,Qualified,2/17/2017
+LE-952-74716,SP-4o9597q4,Florina Pinches,Florina,Pinches,Filament,Hitesh Madhukar Patil,Qualified,12/29/2017
+LE-856-96192,SP-7g2488r5,Husain Clackers,Husain,Clackers,Print Bed,Vishal Shakya,Qualified,12-11-2017
+LE-665-99388,SP-7g2488r5,Carolyne Mallett,Carolyne,Mallett,Print Bed,Hitesh Madhukar Patil,Qualified,5/21/2017
+LE-316-29541,A-9o2147a8,Mair Cosgrave,Mair,Cosgrave,Mark-50,Vikas Kishanrao Thamke,Qualified,3/27/2017
+LE-995-06192,A-0u7085f0,Lynett Cundict,Lynett,Cundict,Mark-10,Vishal Shakya,Qualified,5/17/2017
+LE-310-72978,A-9o2147a8,Erminie Smees,Erminie,Smees,Mark-50,Amandeep Singh,Qualified,01-07-2018
+LE-689-85994,SP-6x5102j8,Lizzie Matula,Lizzie,Matula,Controller Board,Vikas Kishanrao Thamke,Qualified,6/21/2017
+LE-660-83151,A-5q8351o1,Clementia Lygo,Clementia,Lygo,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,3/28/2017
+LE-109-03173,A-0u7085f0,Aloisia Binch,Aloisia,Binch,Mark-10,Amandeep Singh,Qualified,07-02-2017
+LE-935-62365,SP-4o9597q4,Sherlock Shory,Sherlock,Shory,Filament,Amandeep Singh,Qualified,11/28/2017
+LE-791-15984,A-4r4833h7,Bradan Holleworth,Bradan,Holleworth,Mark-1,Hitesh Madhukar Patil,Qualified,2/15/2017
+LE-153-50281,SP-4o9597q4,Lotte Fowlds,Lotte,Fowlds,Filament,Amandeep Singh,Qualified,09-12-2017
+LE-942-45831,A-4r4833h7,Loretta Figgess,Loretta,Figgess,Mark-1,Vikas Kishanrao Thamke,Qualified,11-04-2017
+LE-939-39135,SP-9o2014z5,Ramsay Pepineaux,Ramsay,Pepineaux,Frame,Vikas Kishanrao Thamke,Qualified,4/30/2017
+LE-067-99135,SP-4o9597q4,Rudolf Wibberley,Rudolf,Wibberley,Filament,Amandeep Singh,Qualified,1/27/2018
+LE-167-36851,A-1s3102u0,Kareem Rushman,Kareem,Rushman,Jarvis-5 T,Amandeep Singh,Qualified,12-06-2017
+LE-774-20582,A-4r4833h7,Cally Kullmann,Cally,Kullmann,Mark-1,Hitesh Madhukar Patil,Qualified,9/24/2017
+LE-602-62064,SP-7g2488r5,Manfred Plait,Manfred,Plait,Print Bed,Vikas Kishanrao Thamke,Qualified,02-07-2018
+LE-301-53723,SP-7g2488r5,Rhoda Loftus,Rhoda,Loftus,Print Bed,Hitesh Madhukar Patil,Qualified,4/30/2017
+LE-867-84638,SP-6x5102j8,Judi Zupone,Judi,Zupone,Controller Board,Amandeep Singh,Qualified,10/21/2017
+LE-308-65296,A-9o2147a8,Marta Labell,Marta,Labell,Mark-50,Vikas Kishanrao Thamke,Qualified,4/15/2017
+LE-899-55733,A-1s3102u0,Rianon Drews,Rianon,Drews,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,11/22/2017
+LE-079-08583,A-1s3102u0,Delphinia Askwith,Delphinia,Askwith,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,10/19/2017
+LE-647-86404,A-9i3568y3,Henderson Bowcock,Henderson,Bowcock,Mark-5,Amandeep Singh,Qualified,1/31/2018
+LE-856-41325,SP-4o9597q4,Lillian Shwenn,Lillian,Shwenn,Filament,Hitesh Madhukar Patil,Qualified,3/25/2017
+LE-636-40511,A-4r4833h7,Rafael Bunnell,Rafael,Bunnell,Mark-1,Amandeep Singh,Qualified,4/24/2017
+LE-806-34670,SP-9o2014z5,Fifi Solman,Fifi,Solman,Frame,Amandeep Singh,Qualified,7/17/2017
+LE-497-01919,S-3h9809u2,Lamond Gleadle,Lamond,Gleadle,Software and Drivers,Vishal Shakya,Qualified,9/30/2017
+LE-152-60786,A-1s3102u0,Almeda Govenlock,Almeda,Govenlock,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,06-10-2017
+LE-421-28694,SP-7g2488r5,Ree Docwra,Ree,Docwra,Print Bed,Amandeep Singh,Qualified,03-03-2017
+LE-514-52971,A-5q8351o1,Orelie Houlson,Orelie,Houlson,Jarvis-1 T,Vishal Shakya,Qualified,10-07-2017
+LE-462-93759,SP-4o9597q4,Warden Buske,Warden,Buske,Filament,Amandeep Singh,Qualified,03-06-2017
+LE-185-98997,A-9i3568y3,Shandee Karpenko,Shandee,Karpenko,Mark-5,Hitesh Madhukar Patil,Qualified,11/15/2017
+LE-758-36366,A-0u7085f0,Kayle Toothill,Kayle,Toothill,Mark-10,Vikas Kishanrao Thamke,Qualified,3/23/2017
+LE-611-37778,A-4r4833h7,Hildagarde Heckle,Hildagarde,Heckle,Mark-1,Amandeep Singh,Qualified,5/14/2017
+LE-980-06089,SP-7g2488r5,Deerdre Vaines,Deerdre,Vaines,Print Bed,Vikas Kishanrao Thamke,Qualified,8/26/2017
+LE-517-46372,A-5q8351o1,Arleyne Fonquernie,Arleyne,Fonquernie,Jarvis-1 T,Vishal Shakya,Qualified,5/19/2017
+LE-846-71792,SP-9o2014z5,Lazare Marien,Lazare,Marien,Frame,Amandeep Singh,Qualified,5/16/2017
+LE-225-66344,SP-9o2014z5,Veradis Odlin,Veradis,Odlin,Frame,Amandeep Singh,Qualified,02-12-2017
+LE-138-31757,SP-9o2014z5,Rafaellle Cassel,Rafaellle,Cassel,Frame,Hitesh Madhukar Patil,Qualified,06-09-2017
+LE-719-09113,SP-6x5102j8,Dotti Concklin,Dotti,Concklin,Controller Board,Vishal Shakya,Qualified,4/25/2017
+LE-371-44002,A-9o2147a8,Rebekkah Mizzen,Rebekkah,Mizzen,Mark-50,Hitesh Madhukar Patil,Qualified,1/18/2018
+LE-773-95651,SP-7g2488r5,Man McRorie,Man,McRorie,Print Bed,Vishal Shakya,Qualified,10/21/2017
+LE-025-79369,SP-1j3802q0,Regina Pender,Regina,Pender,Belts,Vishal Shakya,Qualified,3/22/2017
+LE-285-51112,S-3h9809u2,Letty Alywin,Letty,Alywin,Software and Drivers,Hitesh Madhukar Patil,Qualified,5/22/2017
+LE-012-82159,A-9o2147a8,Henka Trinkwon,Henka,Trinkwon,Mark-50,Vikas Kishanrao Thamke,Qualified,05-01-2017
+LE-385-28694,A-4r4833h7,Othelia Pelling,Othelia,Pelling,Mark-1,Amandeep Singh,Qualified,6/19/2017
+LE-191-80671,A-9o2147a8,Celestina Benardet,Celestina,Benardet,Mark-50,Hitesh Madhukar Patil,Qualified,6/16/2017
+LE-787-16582,A-5q8351o1,Tibold Kempe,Tibold,Kempe,Jarvis-1 T,Amandeep Singh,Qualified,2/14/2017
+LE-883-02853,SP-9o2014z5,Janine Alexis,Janine,Alexis,Frame,Amandeep Singh,Qualified,09-06-2017
+LE-864-84374,SP-1j3802q0,Bobbi Revett,Bobbi,Revett,Belts,Vikas Kishanrao Thamke,Qualified,2/25/2017
+LE-552-71854,SP-7g2488r5,Drusy Beedom,Drusy,Beedom,Print Bed,Amandeep Singh,Qualified,01-03-2018
+LE-607-31477,A-1s3102u0,Kathlin Sinkin,Kathlin,Sinkin,Jarvis-5 T,Amandeep Singh,Qualified,10/19/2017
+LE-398-63646,A-1s3102u0,Loella Caselli,Loella,Caselli,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,06-04-2017
+LE-008-37816,A-9i3568y3,Waiter Radden,Waiter,Radden,Mark-5,Amandeep Singh,Qualified,1/31/2018
+LE-104-71028,A-4r4833h7,Flossi Ickovici,Flossi,Ickovici,Mark-1,Vishal Shakya,Qualified,2/19/2017
+LE-102-46582,S-3h9809u2,Nicolette McLese,Nicolette,McLese,Software and Drivers,Vishal Shakya,Qualified,07-06-2017
+LE-244-20585,A-0u7085f0,Gwyneth Gieraths,Gwyneth,Gieraths,Mark-10,Amandeep Singh,Qualified,2/27/2018
+LE-366-42468,A-1s3102u0,Kass Worsam,Kass,Worsam,Jarvis-5 T,Vishal Shakya,Qualified,5/18/2017
+LE-318-78380,A-1s3102u0,Jocko Cody,Jocko,Cody,Jarvis-5 T,Amandeep Singh,Qualified,01-06-2018
+LE-994-50609,SP-9o2014z5,Denys Cattroll,Denys,Cattroll,Frame,Hitesh Madhukar Patil,Qualified,4/17/2017
+LE-607-15787,SP-9o2014z5,Gilly Benda,Gilly,Benda,Frame,Hitesh Madhukar Patil,Qualified,8/24/2017
+LE-104-33746,A-9i3568y3,Isacco Bullin,Isacco,Bullin,Mark-5,Amandeep Singh,Qualified,2/16/2018
+LE-858-99866,A-9i3568y3,Inger Heining,Inger,Heining,Mark-5,Hitesh Madhukar Patil,Qualified,05-11-2017
+LE-539-15992,SP-4o9597q4,Aguie Fri,Aguie,Fri,Filament,Vikas Kishanrao Thamke,Qualified,11/28/2017
+LE-490-02525,A-4r4833h7,Bear Fedoronko,Bear,Fedoronko,Mark-1,Vikas Kishanrao Thamke,Qualified,02-09-2017
+LE-832-79922,A-1s3102u0,Marni Bilverstone,Marni,Bilverstone,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,02-03-2018
+LE-186-68944,SP-7g2488r5,Rickert Boddis,Rickert,Boddis,Print Bed,Hitesh Madhukar Patil,Qualified,9/14/2017
+LE-411-16381,A-9i3568y3,Gwenneth Czaple,Gwenneth,Czaple,Mark-5,Vishal Shakya,Qualified,10-08-2017
+LE-956-09005,SP-6x5102j8,Brandise Thistleton,Brandise,Thistleton,Controller Board,Hitesh Madhukar Patil,Qualified,10-06-2017
+LE-924-52313,A-4r4833h7,Renato Pyne,Renato,Pyne,Mark-1,Vishal Shakya,Qualified,3/21/2017
+LE-871-08106,A-9o2147a8,Corly Riggs,Corly,Riggs,Mark-50,Vikas Kishanrao Thamke,Qualified,05-11-2017
+LE-751-02109,SP-6x5102j8,Myrna Grey,Myrna,Grey,Controller Board,Vikas Kishanrao Thamke,Qualified,01-08-2018
+LE-050-82698,SP-9o2014z5,Janot Pundy,Janot,Pundy,Frame,Amandeep Singh,Qualified,07-12-2017
+LE-960-03569,SP-6x5102j8,Standford Weathers,Standford,Weathers,Controller Board,Vishal Shakya,Qualified,8/27/2017
+LE-693-10180,A-0u7085f0,Suellen Sommerton,Suellen,Sommerton,Mark-10,Hitesh Madhukar Patil,Qualified,08-02-2017
+LE-365-08185,SP-4o9597q4,Lorene Paddie,Lorene,Paddie,Filament,Vishal Shakya,Qualified,08-09-2017
+LE-100-91989,A-0u7085f0,Celinka Zuppa,Celinka,Zuppa,Mark-10,Vishal Shakya,Qualified,7/18/2017
+LE-652-34679,SP-9o2014z5,Fleur Loads,Fleur,Loads,Frame,Vikas Kishanrao Thamke,Qualified,06-11-2017
+LE-457-15409,SP-6x5102j8,Hermie Mauser,Hermie,Mauser,Controller Board,Hitesh Madhukar Patil,Qualified,6/21/2017
+LE-324-73290,SP-4o9597q4,Roxi Dyde,Roxi,Dyde,Filament,Vishal Shakya,Qualified,02-03-2018
+LE-254-25022,A-0u7085f0,Sutton Tune,Sutton,Tune,Mark-10,Vishal Shakya,Qualified,11/22/2017
+LE-317-94944,SP-4o9597q4,Carie Carrack,Carie,Carrack,Filament,Vikas Kishanrao Thamke,Qualified,5/18/2017
+LE-321-97158,A-5q8351o1,Ethelyn Toulmin,Ethelyn,Toulmin,Jarvis-1 T,Amandeep Singh,Qualified,05-11-2017
+LE-811-93960,A-9i3568y3,Ivonne Winnett,Ivonne,Winnett,Mark-5,Hitesh Madhukar Patil,Qualified,9/16/2017
+LE-671-16658,S-3h9809u2,Britta Starr,Britta,Starr,Software and Drivers,Vishal Shakya,Qualified,11-08-2017
+LE-812-61739,SP-9o2014z5,Andres Gimber,Andres,Gimber,Frame,Vikas Kishanrao Thamke,Qualified,12/16/2017
+LE-945-84905,A-0u7085f0,Pate Taig,Pate,Taig,Mark-10,Hitesh Madhukar Patil,Qualified,10/21/2017
+LE-898-59258,S-3h9809u2,Elsbeth O'Suaird,Elsbeth,O'Suaird,Software and Drivers,Vishal Shakya,Qualified,11/30/2017
+LE-718-22061,A-5q8351o1,Abbie Cousens,Abbie,Cousens,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,03-10-2017
+LE-240-47643,A-5q8351o1,Dorita O'Hdirscoll,Dorita,O'Hdirscoll,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,11-02-2017
+LE-702-54710,A-5q8351o1,Henryetta Di Iorio,Henryetta,Di Iorio,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,01-07-2018
+LE-068-98290,SP-6x5102j8,Geralda Franzman,Geralda,Franzman,Controller Board,Vishal Shakya,Qualified,1/31/2018
+LE-352-35679,SP-6x5102j8,Margette Parratt,Margette,Parratt,Controller Board,Hitesh Madhukar Patil,Qualified,8/18/2017
+LE-438-10331,S-3h9809u2,Odessa Tulleth,Odessa,Tulleth,Software and Drivers,Vishal Shakya,Qualified,5/18/2017
+LE-031-37559,A-4r4833h7,Giordano Welbrock,Giordano,Welbrock,Mark-1,Hitesh Madhukar Patil,Qualified,5/20/2017
+LE-019-27082,SP-6x5102j8,Ana Barnsdale,Ana,Barnsdale,Controller Board,Amandeep Singh,Qualified,01-04-2018
+LE-431-00056,A-9i3568y3,Wakefield Wigan,Wakefield,Wigan,Mark-5,Hitesh Madhukar Patil,Qualified,4/26/2017
+LE-518-25063,SP-6x5102j8,Westbrook Bassett,Westbrook,Bassett,Controller Board,Vishal Shakya,Qualified,3/19/2017
+LE-301-58551,SP-4o9597q4,Leicester Dominec,Leicester,Dominec,Filament,Hitesh Madhukar Patil,Qualified,05-03-2017
+LE-584-95314,A-9i3568y3,Katheryn Iacobo,Katheryn,Iacobo,Mark-5,Amandeep Singh,Qualified,1/27/2018
+LE-153-23584,A-0u7085f0,Dorian Speedin,Dorian,Speedin,Mark-10,Hitesh Madhukar Patil,Qualified,02-05-2017
+LE-658-90269,SP-7g2488r5,Tyrone Flexman,Tyrone,Flexman,Print Bed,Vikas Kishanrao Thamke,Qualified,3/26/2017
+LE-091-33874,A-0u7085f0,Peria Donizeau,Peria,Donizeau,Mark-10,Hitesh Madhukar Patil,Qualified,12/21/2017
+LE-223-87214,SP-6x5102j8,Gare Brothwell,Gare,Brothwell,Controller Board,Amandeep Singh,Qualified,09-12-2017
+LE-840-85629,S-3h9809u2,Emmie McSporon,Emmie,McSporon,Software and Drivers,Amandeep Singh,Qualified,12/30/2017
+LE-804-88912,SP-6x5102j8,Caitlin Guittet,Caitlin,Guittet,Controller Board,Vishal Shakya,Qualified,3/25/2017
+LE-964-95798,A-1s3102u0,Daile Mougeot,Daile,Mougeot,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,02-10-2018
+LE-150-76479,SP-6x5102j8,Parke Chapelhow,Parke,Chapelhow,Controller Board,Amandeep Singh,Qualified,2/25/2018
+LE-214-47844,SP-9o2014z5,Logan Whisson,Logan,Whisson,Frame,Amandeep Singh,Qualified,07-09-2017
+LE-035-89862,A-1s3102u0,Jammal Hardi,Jammal,Hardi,Jarvis-5 T,Amandeep Singh,Qualified,11-06-2017
+LE-220-78032,A-0u7085f0,Tommy Bowler,Tommy,Bowler,Mark-10,Hitesh Madhukar Patil,Qualified,8/28/2017
+LE-332-85271,SP-9o2014z5,Ambrosius Wildbore,Ambrosius,Wildbore,Frame,Amandeep Singh,Qualified,09-04-2017
+LE-817-16549,SP-9o2014z5,Guendolen Skillett,Guendolen,Skillett,Frame,Amandeep Singh,Qualified,4/29/2017
+LE-038-56058,A-9o2147a8,Pavlov Cristoferi,Pavlov,Cristoferi,Mark-50,Hitesh Madhukar Patil,Qualified,10/22/2017
+LE-304-88910,SP-1j3802q0,Lorrie Mackneis,Lorrie,Mackneis,Belts,Hitesh Madhukar Patil,Qualified,2/26/2018
+LE-600-71544,A-9i3568y3,Hayward Kaveney,Hayward,Kaveney,Mark-5,Vishal Shakya,Qualified,11/26/2017
+LE-736-87322,A-4r4833h7,Boony Hefford,Boony,Hefford,Mark-1,Hitesh Madhukar Patil,Qualified,11-12-2017
+LE-127-53025,A-1s3102u0,Jaynell Gregorace,Jaynell,Gregorace,Jarvis-5 T,Vishal Shakya,Qualified,12/23/2017
+LE-225-66557,SP-4o9597q4,Leopold Kolakowski,Leopold,Kolakowski,Filament,Vikas Kishanrao Thamke,Qualified,01-01-2018
+LE-561-04263,A-0u7085f0,Amerigo Gudge,Amerigo,Gudge,Mark-10,Amandeep Singh,Qualified,09-11-2017
+LE-978-72476,SP-6x5102j8,Hadria Bartosik,Hadria,Bartosik,Controller Board,Amandeep Singh,Qualified,11-09-2017
+LE-609-39599,A-9o2147a8,Huntley Emberton,Huntley,Emberton,Mark-50,Vikas Kishanrao Thamke,Qualified,02-08-2017
+LE-596-55133,A-9i3568y3,Joanna Grishechkin,Joanna,Grishechkin,Mark-5,Amandeep Singh,Qualified,7/22/2017
+LE-212-26556,A-5q8351o1,Bernie Rutherford,Bernie,Rutherford,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,8/26/2017
+LE-639-14405,SP-7g2488r5,Lorilee Radsdale,Lorilee,Radsdale,Print Bed,Hitesh Madhukar Patil,Qualified,5/25/2017
+LE-099-61780,SP-9o2014z5,Bobinette Ramalhete,Bobinette,Ramalhete,Frame,Amandeep Singh,Qualified,3/27/2017
+LE-623-26392,S-3h9809u2,Quillan Matthiae,Quillan,Matthiae,Software and Drivers,Vikas Kishanrao Thamke,Qualified,09-03-2017
+LE-316-05010,SP-4o9597q4,Gabriellia Wareing,Gabriellia,Wareing,Filament,Hitesh Madhukar Patil,Qualified,9/28/2017
+LE-266-29459,S-3h9809u2,Inga Scahill,Inga,Scahill,Software and Drivers,Vikas Kishanrao Thamke,Qualified,4/17/2017
+LE-698-24865,A-5q8351o1,Corbet Dillestone,Corbet,Dillestone,Jarvis-1 T,Vishal Shakya,Qualified,2/23/2017
+LE-276-46820,A-9i3568y3,Winfred Healy,Winfred,Healy,Mark-5,Amandeep Singh,Qualified,7/20/2017
+LE-333-92888,A-9i3568y3,Rab Vanes,Rab,Vanes,Mark-5,Amandeep Singh,Qualified,2/14/2017
+LE-390-38170,A-9i3568y3,Calli Girone,Calli,Girone,Mark-5,Amandeep Singh,Qualified,6/20/2017
+LE-297-02475,A-1s3102u0,Roseanne Sale,Roseanne,Sale,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,09-03-2017
+LE-278-88578,A-9i3568y3,Torrie Sweynson,Torrie,Sweynson,Mark-5,Hitesh Madhukar Patil,Qualified,7/20/2017
+LE-371-84629,SP-4o9597q4,Clara McEvon,Clara,McEvon,Filament,Vishal Shakya,Qualified,2/20/2017
+LE-977-29743,A-1s3102u0,Emmett Forty,Emmett,Forty,Jarvis-5 T,Vishal Shakya,Qualified,9/22/2017
+LE-764-24190,SP-7g2488r5,Fawne O'Dooghaine,Fawne,O'Dooghaine,Print Bed,Vikas Kishanrao Thamke,Qualified,10-11-2017
+LE-668-69340,A-0u7085f0,Arabele Roscamp,Arabele,Roscamp,Mark-10,Vishal Shakya,Qualified,1/24/2018
+LE-560-77404,A-9i3568y3,Guillermo Dobrovolski,Guillermo,Dobrovolski,Mark-5,Hitesh Madhukar Patil,Qualified,12/29/2017
+LE-553-75914,S-3h9809u2,Paxton Buffey,Paxton,Buffey,Software and Drivers,Amandeep Singh,Qualified,02-01-2017
+LE-387-20541,A-0u7085f0,Jocelin Thow,Jocelin,Thow,Mark-10,Amandeep Singh,Qualified,8/27/2017
+LE-616-49491,A-5q8351o1,Lovell Adamou,Lovell,Adamou,Jarvis-1 T,Vishal Shakya,Qualified,11/24/2017
+LE-762-78030,S-3h9809u2,Alli Pascoe,Alli,Pascoe,Software and Drivers,Amandeep Singh,Qualified,05-01-2017
+LE-909-24389,A-9i3568y3,Jackelyn Ambler,Jackelyn,Ambler,Mark-5,Vishal Shakya,Qualified,4/14/2017
+LE-684-66235,SP-9o2014z5,Der Crafts,Der,Crafts,Frame,Amandeep Singh,Qualified,05-08-2017
+LE-503-05331,S-3h9809u2,Flory Petteford,Flory,Petteford,Software and Drivers,Hitesh Madhukar Patil,Qualified,03-05-2017
+LE-935-87163,A-5q8351o1,Alissa Hilldrup,Alissa,Hilldrup,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,05-09-2017
+LE-481-42792,A-9i3568y3,Leesa Mochan,Leesa,Mochan,Mark-5,Vikas Kishanrao Thamke,Qualified,1/27/2018
+LE-496-85470,S-3h9809u2,Brunhilde Perello,Brunhilde,Perello,Software and Drivers,Hitesh Madhukar Patil,Qualified,06-11-2017
+LE-669-83537,A-5q8351o1,Lesley Audiss,Lesley,Audiss,Jarvis-1 T,Vishal Shakya,Qualified,11/21/2017
+LE-963-93918,SP-1j3802q0,Lenard Vaskin,Lenard,Vaskin,Belts,Vishal Shakya,Qualified,07-06-2017
+LE-837-37479,A-0u7085f0,Skell Boerderman,Skell,Boerderman,Mark-10,Vishal Shakya,Qualified,3/13/2017
+LE-527-36225,A-9o2147a8,Elka Dinwoodie,Elka,Dinwoodie,Mark-50,Vikas Kishanrao Thamke,Qualified,12/29/2017
+LE-807-40147,A-0u7085f0,Zak Tooher,Zak,Tooher,Mark-10,Vikas Kishanrao Thamke,Qualified,6/30/2017
+LE-942-68813,SP-4o9597q4,Immanuel MacCumiskey,Immanuel,MacCumiskey,Filament,Vishal Shakya,Qualified,4/28/2017
+LE-692-07955,SP-4o9597q4,Roland Cominoli,Roland,Cominoli,Filament,Amandeep Singh,Qualified,02-01-2018
+LE-719-95819,SP-7g2488r5,Ole Montacute,Ole,Montacute,Print Bed,Vishal Shakya,Qualified,01-06-2018
+LE-861-65251,A-5q8351o1,Angelia Pitchers,Angelia,Pitchers,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,05-03-2017
+LE-480-99085,A-4r4833h7,Marnie Ferries,Marnie,Ferries,Mark-1,Vikas Kishanrao Thamke,Qualified,8/23/2017
+LE-497-41777,SP-1j3802q0,Tucky Mabee,Tucky,Mabee,Belts,Hitesh Madhukar Patil,Qualified,03-07-2017
+LE-470-75639,SP-6x5102j8,Tamar Bourhill,Tamar,Bourhill,Controller Board,Vishal Shakya,Qualified,08-04-2017
+LE-702-40208,A-9i3568y3,Kathy Lewens,Kathy,Lewens,Mark-5,Amandeep Singh,Qualified,5/30/2017
+LE-833-59796,SP-6x5102j8,Edithe Temlett,Edithe,Temlett,Controller Board,Vikas Kishanrao Thamke,Qualified,7/20/2017
+LE-460-48800,A-4r4833h7,Emlen Standall,Emlen,Standall,Mark-1,Vikas Kishanrao Thamke,Qualified,10-05-2017
+LE-999-03292,S-3h9809u2,Oby Overpool,Oby,Overpool,Software and Drivers,Vishal Shakya,Qualified,05-09-2017
+LE-879-76599,SP-7g2488r5,Peg Chesshyre,Peg,Chesshyre,Print Bed,Hitesh Madhukar Patil,Qualified,01-11-2018
+LE-057-92745,A-1s3102u0,Corabel MacVagh,Corabel,MacVagh,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,03-08-2017
+LE-036-19023,SP-7g2488r5,Brynne Merrilees,Brynne,Merrilees,Print Bed,Hitesh Madhukar Patil,Qualified,8/29/2017
+LE-553-29773,SP-7g2488r5,Tallie De la Yglesia,Tallie,De la Yglesia,Print Bed,Vikas Kishanrao Thamke,Qualified,10/25/2017
+LE-748-81119,SP-6x5102j8,Trent Vaszoly,Trent,Vaszoly,Controller Board,Amandeep Singh,Qualified,2/23/2018
+LE-546-31610,SP-7g2488r5,Warren Sweating,Warren,Sweating,Print Bed,Hitesh Madhukar Patil,Qualified,2/13/2017
+LE-483-38633,SP-1j3802q0,Chrotoem Nisby,Chrotoem,Nisby,Belts,Hitesh Madhukar Patil,Qualified,2/14/2018
+LE-550-44652,SP-9o2014z5,Pammy Kerslake,Pammy,Kerslake,Frame,Hitesh Madhukar Patil,Qualified,6/22/2017
+LE-203-72831,SP-4o9597q4,Tome Pauletti,Tome,Pauletti,Filament,Hitesh Madhukar Patil,Qualified,2/25/2018
+LE-814-29930,A-4r4833h7,Cari Dable,Cari,Dable,Mark-1,Amandeep Singh,Qualified,2/25/2017
+LE-748-84557,SP-6x5102j8,Margy Eborall,Margy,Eborall,Controller Board,Hitesh Madhukar Patil,Qualified,8/25/2017
+LE-574-52848,A-0u7085f0,Carmelle Robertacci,Carmelle,Robertacci,Mark-10,Amandeep Singh,Qualified,7/24/2017
+LE-264-91681,A-4r4833h7,Auberon Scrauniage,Auberon,Scrauniage,Mark-1,Vikas Kishanrao Thamke,Qualified,4/30/2017
+LE-622-95496,SP-7g2488r5,Isidora Turfin,Isidora,Turfin,Print Bed,Vikas Kishanrao Thamke,Qualified,2/27/2018
+LE-634-31757,A-4r4833h7,Ash Falloon,Ash,Falloon,Mark-1,Vikas Kishanrao Thamke,Qualified,9/16/2017
+LE-794-34569,A-0u7085f0,Trumaine Pallaske,Trumaine,Pallaske,Mark-10,Amandeep Singh,Qualified,2/25/2018
+LE-309-14022,A-9i3568y3,Bronson Harsant,Bronson,Harsant,Mark-5,Hitesh Madhukar Patil,Qualified,05-04-2017
+LE-671-88372,S-3h9809u2,Edee Keen,Edee,Keen,Software and Drivers,Vishal Shakya,Qualified,03-03-2017
+LE-000-88881,A-4r4833h7,Guenna Eronie,Guenna,Eronie,Mark-1,Vikas Kishanrao Thamke,Qualified,8/27/2017
+LE-692-18235,SP-6x5102j8,Joana Boulde,Joana,Boulde,Controller Board,Amandeep Singh,Qualified,02-06-2017
+LE-481-46564,A-5q8351o1,Ermengarde Alderwick,Ermengarde,Alderwick,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,12/25/2017
+LE-474-63842,A-9i3568y3,Alayne Sharrocks,Alayne,Sharrocks,Mark-5,Vikas Kishanrao Thamke,Qualified,2/24/2018
+LE-630-15146,SP-6x5102j8,Jens Colnet,Jens,Colnet,Controller Board,Vishal Shakya,Qualified,1/18/2018
+LE-137-69306,A-4r4833h7,Marlow Caron,Marlow,Caron,Mark-1,Vikas Kishanrao Thamke,Qualified,05-10-2017
+LE-561-78870,A-9i3568y3,Zeke Cobley,Zeke,Cobley,Mark-5,Hitesh Madhukar Patil,Qualified,7/29/2017
+LE-946-29279,SP-1j3802q0,Lenette Habeshaw,Lenette,Habeshaw,Belts,Vishal Shakya,Qualified,03-06-2017
+LE-572-38998,A-1s3102u0,Kris Allmark,Kris,Allmark,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,05-04-2017
+LE-006-92091,A-4r4833h7,Juli Keppel,Juli,Keppel,Mark-1,Hitesh Madhukar Patil,Qualified,03-05-2017
+LE-828-50373,SP-6x5102j8,Tommi Hoyes,Tommi,Hoyes,Controller Board,Hitesh Madhukar Patil,Qualified,6/17/2017
+LE-640-65528,A-4r4833h7,Cathe Sturgeon,Cathe,Sturgeon,Mark-1,Hitesh Madhukar Patil,Qualified,04-05-2017
+LE-614-21236,A-9i3568y3,Amelie Pavlasek,Amelie,Pavlasek,Mark-5,Vikas Kishanrao Thamke,Qualified,09-01-2017
+LE-103-26531,A-5q8351o1,Ophelia Tawton,Ophelia,Tawton,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,4/27/2017
+LE-013-25976,A-5q8351o1,Adriaens Hourihan,Adriaens,Hourihan,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,6/30/2017
+LE-590-90081,SP-4o9597q4,Alva Carnson,Alva,Carnson,Filament,Vishal Shakya,Qualified,05-08-2017
+LE-726-86835,A-9o2147a8,Toma Langridge,Toma,Langridge,Mark-50,Hitesh Madhukar Patil,Qualified,06-08-2017
+LE-159-86105,SP-7g2488r5,Rosalind Challin,Rosalind,Challin,Print Bed,Hitesh Madhukar Patil,Qualified,6/30/2017
+LE-473-94748,SP-4o9597q4,Karisa Paulus,Karisa,Paulus,Filament,Hitesh Madhukar Patil,Qualified,8/15/2017
+LE-076-99445,SP-6x5102j8,Terri Berrisford,Terri,Berrisford,Controller Board,Amandeep Singh,Qualified,5/21/2017
+LE-181-48642,A-9o2147a8,Auberta Linkleter,Auberta,Linkleter,Mark-50,Hitesh Madhukar Patil,Qualified,6/24/2017
+LE-928-70075,SP-1j3802q0,Ennis Sarch,Ennis,Sarch,Belts,Hitesh Madhukar Patil,Qualified,4/28/2017
+LE-361-65011,A-1s3102u0,Shayla Jaqueminet,Shayla,Jaqueminet,Jarvis-5 T,Vishal Shakya,Qualified,03-05-2017
+LE-686-85259,SP-4o9597q4,Hamlen Henricsson,Hamlen,Henricsson,Filament,Vikas Kishanrao Thamke,Qualified,2/22/2018
+LE-052-02254,A-9i3568y3,Randi Geely,Randi,Geely,Mark-5,Amandeep Singh,Qualified,05-03-2017
+LE-548-42790,SP-9o2014z5,Angeline Caser,Angeline,Caser,Frame,Vishal Shakya,Qualified,10-10-2017
+LE-218-98604,A-4r4833h7,Vannie Finneran,Vannie,Finneran,Mark-1,Hitesh Madhukar Patil,Qualified,02-12-2018
+LE-421-97847,A-5q8351o1,Chas Creeber,Chas,Creeber,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,1/15/2018
+LE-001-15679,A-4r4833h7,Aldridge De Bruijne,Aldridge,De Bruijne,Mark-1,Amandeep Singh,Qualified,7/17/2017
+LE-219-12763,A-1s3102u0,Ellen Hainge,Ellen,Hainge,Jarvis-5 T,Amandeep Singh,Qualified,12/22/2017
+LE-219-02970,SP-9o2014z5,Agretha Sans,Agretha,Sans,Frame,Hitesh Madhukar Patil,Qualified,9/20/2017
+LE-129-76538,A-4r4833h7,Beverlie Colten,Beverlie,Colten,Mark-1,Hitesh Madhukar Patil,Qualified,7/23/2017
+LE-230-50339,A-9o2147a8,Demetra Deakes,Demetra,Deakes,Mark-50,Vishal Shakya,Qualified,04-06-2017
+LE-438-97985,A-1s3102u0,Kara-lynn Cordeix,Kara-lynn,Cordeix,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,09-02-2017
+LE-849-01266,A-5q8351o1,Shirleen Newrick,Shirleen,Newrick,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,02-01-2017
+LE-622-24895,A-9i3568y3,Ferdinande Chipps,Ferdinande,Chipps,Mark-5,Vishal Shakya,Qualified,01-12-2018
+LE-230-64189,A-5q8351o1,Vonnie Swift,Vonnie,Swift,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,2/19/2017
+LE-282-57833,A-1s3102u0,Merridie Illem,Merridie,Illem,Jarvis-5 T,Amandeep Singh,Qualified,1/26/2018
+LE-826-89985,A-9o2147a8,Ernestus Truscott,Ernestus,Truscott,Mark-50,Hitesh Madhukar Patil,Qualified,09-06-2017
+LE-592-78011,A-4r4833h7,Ginnie Vizor,Ginnie,Vizor,Mark-1,Amandeep Singh,Qualified,6/27/2017
+LE-788-63791,SP-9o2014z5,Glynis Blandamore,Glynis,Blandamore,Frame,Vishal Shakya,Qualified,08-07-2017
+LE-597-38028,A-5q8351o1,Joshia Hullett,Joshia,Hullett,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,09-04-2017
+LE-286-21183,A-5q8351o1,Carolee Loughrey,Carolee,Loughrey,Jarvis-1 T,Amandeep Singh,Qualified,3/19/2017
+LE-690-38779,A-0u7085f0,Lucille Pentycost,Lucille,Pentycost,Mark-10,Vikas Kishanrao Thamke,Qualified,04-09-2017
+LE-534-06284,A-9i3568y3,Pearla Karpman,Pearla,Karpman,Mark-5,Amandeep Singh,Qualified,3/28/2017
+LE-877-35111,A-9i3568y3,Theodore Scholefield,Theodore,Scholefield,Mark-5,Amandeep Singh,Qualified,09-01-2017
+LE-227-86297,SP-1j3802q0,Danila Shafier,Danila,Shafier,Belts,Amandeep Singh,Qualified,12-05-2017
+LE-081-89459,A-4r4833h7,Rubie Groveham,Rubie,Groveham,Mark-1,Vishal Shakya,Qualified,11/20/2017
+LE-041-45846,S-3h9809u2,Irvin Cackett,Irvin,Cackett,Software and Drivers,Amandeep Singh,Qualified,8/16/2017
+LE-896-74980,SP-6x5102j8,Elvina Glede,Elvina,Glede,Controller Board,Hitesh Madhukar Patil,Qualified,8/21/2017
+LE-172-66244,S-3h9809u2,Stoddard Layton,Stoddard,Layton,Software and Drivers,Hitesh Madhukar Patil,Qualified,5/20/2017
+LE-204-26449,A-9o2147a8,Kimmie Dreinan,Kimmie,Dreinan,Mark-50,Vishal Shakya,Qualified,05-09-2017
+LE-754-26492,SP-7g2488r5,Vince Cullabine,Vince,Cullabine,Print Bed,Vikas Kishanrao Thamke,Qualified,01-08-2018
+LE-076-14274,SP-7g2488r5,Randolf Knok,Randolf,Knok,Print Bed,Vikas Kishanrao Thamke,Qualified,06-03-2017
+LE-281-63856,SP-9o2014z5,Bessy Adams,Bessy,Adams,Frame,Hitesh Madhukar Patil,Qualified,4/14/2017
+LE-144-23173,S-3h9809u2,Isaac Gerren,Isaac,Gerren,Software and Drivers,Vikas Kishanrao Thamke,Qualified,09-03-2017
+LE-326-89536,A-4r4833h7,Carlina Brugh,Carlina,Brugh,Mark-1,Amandeep Singh,Qualified,8/21/2017
+LE-550-70575,SP-1j3802q0,Annmarie Gunstone,Annmarie,Gunstone,Belts,Vishal Shakya,Qualified,2/25/2018
+LE-917-63197,S-3h9809u2,Remus Berriball,Remus,Berriball,Software and Drivers,Hitesh Madhukar Patil,Qualified,4/19/2017
+LE-833-58331,SP-1j3802q0,Care Hindhaugh,Care,Hindhaugh,Belts,Hitesh Madhukar Patil,Qualified,4/30/2017
+LE-831-65681,A-0u7085f0,Hilliard Warre,Hilliard,Warre,Mark-10,Amandeep Singh,Qualified,6/14/2017
+LE-428-56625,SP-1j3802q0,Doreen Danielovitch,Doreen,Danielovitch,Belts,Hitesh Madhukar Patil,Qualified,12/13/2017
+LE-079-20586,SP-4o9597q4,Ardis De Nisco,Ardis,De Nisco,Filament,Vishal Shakya,Qualified,1/28/2018
+LE-762-08464,A-1s3102u0,Joleen Cornall,Joleen,Cornall,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,1/30/2018
+LE-056-39014,A-5q8351o1,Corry Canelas,Corry,Canelas,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,02-12-2018
+LE-880-52170,A-9o2147a8,Mei Aylett,Mei,Aylett,Mark-50,Vikas Kishanrao Thamke,Qualified,2/19/2018
+LE-301-69588,SP-1j3802q0,Dell Sowte,Dell,Sowte,Belts,Hitesh Madhukar Patil,Qualified,03-07-2017
+LE-836-25619,A-9o2147a8,Carlene Feather,Carlene,Feather,Mark-50,Vishal Shakya,Qualified,02-04-2018
+LE-101-19610,A-4r4833h7,Nickolas Scraggs,Nickolas,Scraggs,Mark-1,Vishal Shakya,Qualified,10-12-2017
+LE-868-53309,S-3h9809u2,Olin Ferrarello,Olin,Ferrarello,Software and Drivers,Vikas Kishanrao Thamke,Qualified,2/22/2018
+LE-639-08493,SP-9o2014z5,Caryl Synan,Caryl,Synan,Frame,Vikas Kishanrao Thamke,Qualified,06-04-2017
+LE-351-85302,A-4r4833h7,Lucila Chupin,Lucila,Chupin,Mark-1,Amandeep Singh,Qualified,09-03-2017
+LE-583-13347,A-0u7085f0,Moishe Heakey,Moishe,Heakey,Mark-10,Amandeep Singh,Qualified,08-11-2017
+LE-483-39777,A-0u7085f0,Elyssa Polfer,Elyssa,Polfer,Mark-10,Amandeep Singh,Qualified,5/16/2017
+LE-217-73539,A-9o2147a8,Gerald Heathcote,Gerald,Heathcote,Mark-50,Amandeep Singh,Qualified,9/14/2017
+LE-912-80247,A-9o2147a8,Annecorinne Nystrom,Annecorinne,Nystrom,Mark-50,Hitesh Madhukar Patil,Qualified,11/30/2017
+LE-841-67733,SP-6x5102j8,Dieter Bartolozzi,Dieter,Bartolozzi,Controller Board,Vishal Shakya,Qualified,02-04-2018
+LE-446-29334,A-9o2147a8,Egor Lippo,Egor,Lippo,Mark-50,Vikas Kishanrao Thamke,Qualified,09-01-2017
+LE-636-44446,A-9i3568y3,Jedediah McKeon,Jedediah,McKeon,Mark-5,Vikas Kishanrao Thamke,Qualified,6/16/2017
+LE-634-32897,SP-7g2488r5,Maren Loudiane,Maren,Loudiane,Print Bed,Vishal Shakya,Qualified,11/18/2017
+LE-228-42352,SP-9o2014z5,Aguie Plinck,Aguie,Plinck,Frame,Hitesh Madhukar Patil,Qualified,01-05-2018
+LE-177-01282,SP-6x5102j8,Cilka Primett,Cilka,Primett,Controller Board,Amandeep Singh,Qualified,03-11-2017
+LE-413-14627,SP-4o9597q4,Phillipe Sustins,Phillipe,Sustins,Filament,Amandeep Singh,Qualified,7/19/2017
+LE-005-63207,A-4r4833h7,Wilhelm Scalia,Wilhelm,Scalia,Mark-1,Vishal Shakya,Qualified,02-06-2017
+LE-852-08882,SP-6x5102j8,Gerardo Jorge,Gerardo,Jorge,Controller Board,Amandeep Singh,Qualified,1/13/2018
+LE-146-32245,A-1s3102u0,Annemarie Presnell,Annemarie,Presnell,Jarvis-5 T,Vishal Shakya,Qualified,06-09-2017
+LE-992-21295,A-9i3568y3,Elmo Braunton,Elmo,Braunton,Mark-5,Vishal Shakya,Qualified,2/28/2017
+LE-126-59127,A-9o2147a8,Missy Spurr,Missy,Spurr,Mark-50,Amandeep Singh,Qualified,10-10-2017
+LE-322-00925,A-9i3568y3,Corene Pead,Corene,Pead,Mark-5,Hitesh Madhukar Patil,Qualified,5/19/2017
+LE-263-90589,A-9o2147a8,Bridie Tinniswood,Bridie,Tinniswood,Mark-50,Hitesh Madhukar Patil,Qualified,01-07-2018
+LE-897-89636,SP-4o9597q4,Gannie Bodycomb,Gannie,Bodycomb,Filament,Vishal Shakya,Qualified,4/23/2017
+LE-222-57901,SP-9o2014z5,Tabbi Smallcombe,Tabbi,Smallcombe,Frame,Amandeep Singh,Qualified,4/27/2017
+LE-286-79794,A-0u7085f0,Arvy Tuerena,Arvy,Tuerena,Mark-10,Vishal Shakya,Qualified,6/25/2017
+LE-583-03061,SP-4o9597q4,Gnni Lees,Gnni,Lees,Filament,Vikas Kishanrao Thamke,Qualified,12-03-2017
+LE-081-45871,A-0u7085f0,Opaline Wiggington,Opaline,Wiggington,Mark-10,Hitesh Madhukar Patil,Qualified,12/27/2017
+LE-910-49316,A-4r4833h7,Hannah Bathoe,Hannah,Bathoe,Mark-1,Amandeep Singh,Qualified,10/23/2017
+LE-776-30741,A-4r4833h7,Edythe Johl,Edythe,Johl,Mark-1,Hitesh Madhukar Patil,Qualified,10/31/2017
+LE-241-70420,A-0u7085f0,Modestine Farrow,Modestine,Farrow,Mark-10,Hitesh Madhukar Patil,Qualified,4/27/2017
+LE-785-28507,SP-9o2014z5,Katharyn Winter,Katharyn,Winter,Frame,Vishal Shakya,Qualified,12/24/2017
+LE-348-34598,SP-9o2014z5,Nikolia Wones,Nikolia,Wones,Frame,Hitesh Madhukar Patil,Qualified,2/19/2018
+LE-009-59375,A-1s3102u0,Georgia Callacher,Georgia,Callacher,Jarvis-5 T,Amandeep Singh,Qualified,12-12-2017
+LE-924-15033,S-3h9809u2,Sheilah Acuna,Sheilah,Acuna,Software and Drivers,Amandeep Singh,Qualified,12/24/2017
+LE-842-59348,SP-9o2014z5,Alison Morley,Alison,Morley,Frame,Vikas Kishanrao Thamke,Qualified,6/16/2017
+LE-188-00194,S-3h9809u2,Katherine Nulty,Katherine,Nulty,Software and Drivers,Vikas Kishanrao Thamke,Qualified,08-04-2017
+LE-241-41231,SP-6x5102j8,Maximilian Nursey,Maximilian,Nursey,Controller Board,Amandeep Singh,Qualified,09-07-2017
+LE-413-32095,A-5q8351o1,Kari Keirl,Kari,Keirl,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,4/28/2017
+LE-336-96540,A-4r4833h7,Lisa Gittose,Lisa,Gittose,Mark-1,Vishal Shakya,Qualified,01-11-2018
+LE-130-57380,SP-1j3802q0,Caldwell Rawlence,Caldwell,Rawlence,Belts,Vishal Shakya,Qualified,9/23/2017
+LE-925-71026,SP-7g2488r5,Merola Farlow,Merola,Farlow,Print Bed,Hitesh Madhukar Patil,Qualified,7/17/2017
+LE-893-66929,S-3h9809u2,Myrtle Putman,Myrtle,Putman,Software and Drivers,Amandeep Singh,Qualified,6/28/2017
+LE-448-71526,SP-6x5102j8,Salvatore Vidgeon,Salvatore,Vidgeon,Controller Board,Hitesh Madhukar Patil,Qualified,10/28/2017
+LE-622-49441,SP-1j3802q0,Buiron Faughny,Buiron,Faughny,Belts,Vishal Shakya,Qualified,4/27/2017
+LE-844-65603,SP-9o2014z5,Matthaeus Duprey,Matthaeus,Duprey,Frame,Amandeep Singh,Qualified,10/24/2017
+LE-394-46145,A-1s3102u0,Tasia Leupold,Tasia,Leupold,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,01-08-2018
+LE-266-62920,A-9o2147a8,Selma Blackbourn,Selma,Blackbourn,Mark-50,Vishal Shakya,Qualified,4/20/2017
+LE-720-40673,SP-6x5102j8,Jyoti Tunney,Jyoti,Tunney,Controller Board,Amandeep Singh,Qualified,11-08-2017
+LE-582-76394,SP-9o2014z5,Pippy Worton,Pippy,Worton,Frame,Hitesh Madhukar Patil,Qualified,06-12-2017
+LE-928-00727,A-4r4833h7,Chloette Gurery,Chloette,Gurery,Mark-1,Vishal Shakya,Qualified,05-11-2017
+LE-518-66619,A-9i3568y3,Patsy Deavall,Patsy,Deavall,Mark-5,Amandeep Singh,Qualified,2/28/2017
+LE-861-33509,SP-1j3802q0,Karlotte Dwerryhouse,Karlotte,Dwerryhouse,Belts,Hitesh Madhukar Patil,Qualified,10-05-2017
+LE-033-08650,SP-7g2488r5,De witt Lefever,De witt,Lefever,Print Bed,Hitesh Madhukar Patil,Qualified,6/30/2017
+LE-723-80560,SP-6x5102j8,Doralynne Wallace,Doralynne,Wallace,Controller Board,Amandeep Singh,Qualified,9/20/2017
+LE-664-33173,SP-4o9597q4,Cristine O'Loughlin,Cristine,O'Loughlin,Filament,Hitesh Madhukar Patil,Qualified,7/15/2017
+LE-352-01285,SP-7g2488r5,Garnet O'Kane,Garnet,O'Kane,Print Bed,Amandeep Singh,Qualified,06-08-2017
+LE-305-19667,A-0u7085f0,Jewel Stanislaw,Jewel,Stanislaw,Mark-10,Amandeep Singh,Qualified,2/14/2018
+LE-745-94901,A-5q8351o1,Shelton Slogrove,Shelton,Slogrove,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,1/23/2018
+LE-123-29710,A-4r4833h7,Shaine Pere,Shaine,Pere,Mark-1,Hitesh Madhukar Patil,Qualified,10/22/2017
+LE-078-19428,A-9o2147a8,Konrad Creelman,Konrad,Creelman,Mark-50,Amandeep Singh,Qualified,05-12-2017
+LE-632-82817,S-3h9809u2,Lotte Ascraft,Lotte,Ascraft,Software and Drivers,Vishal Shakya,Qualified,11/28/2017
+LE-393-60499,SP-4o9597q4,Herb Laye,Herb,Laye,Filament,Vikas Kishanrao Thamke,Qualified,10-09-2017
+LE-219-13415,SP-4o9597q4,Ulrikaumeko Earwicker,Ulrikaumeko,Earwicker,Filament,Hitesh Madhukar Patil,Qualified,11-01-2017
+LE-232-08107,A-1s3102u0,Rachel Boldra,Rachel,Boldra,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,04-02-2017
+LE-553-30814,A-0u7085f0,Camel Colman,Camel,Colman,Mark-10,Hitesh Madhukar Patil,Qualified,02-01-2018
+LE-378-32398,A-9o2147a8,Issy Liggins,Issy,Liggins,Mark-50,Vishal Shakya,Qualified,1/30/2018
+LE-960-79717,A-9i3568y3,Emmi Inglesfield,Emmi,Inglesfield,Mark-5,Vikas Kishanrao Thamke,Qualified,03-12-2017
+LE-741-60512,A-5q8351o1,Tilda Dore,Tilda,Dore,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,05-04-2017
+LE-112-99543,A-5q8351o1,Anselma Angus,Anselma,Angus,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,4/21/2017
+LE-226-61995,SP-6x5102j8,Jaquith Yard,Jaquith,Yard,Controller Board,Hitesh Madhukar Patil,Qualified,09-04-2017
+LE-792-12471,SP-1j3802q0,Garvy Paulack,Garvy,Paulack,Belts,Vishal Shakya,Qualified,03-03-2017
+LE-237-93154,SP-7g2488r5,Brandais Rossbrook,Brandais,Rossbrook,Print Bed,Hitesh Madhukar Patil,Qualified,03-01-2017
+LE-951-79137,A-4r4833h7,Dulci Jurca,Dulci,Jurca,Mark-1,Vishal Shakya,Qualified,02-05-2018
+LE-784-06591,SP-6x5102j8,Alvinia Friar,Alvinia,Friar,Controller Board,Hitesh Madhukar Patil,Qualified,8/27/2017
+LE-561-73849,SP-1j3802q0,Hillel Marrion,Hillel,Marrion,Belts,Hitesh Madhukar Patil,Qualified,02-05-2017
+LE-756-87126,SP-4o9597q4,Lanie Recher,Lanie,Recher,Filament,Hitesh Madhukar Patil,Qualified,8/24/2017
+LE-725-99191,SP-6x5102j8,Gav Abell,Gav,Abell,Controller Board,Vishal Shakya,Qualified,2/21/2017
+LE-161-90680,A-0u7085f0,Caralie Vairow,Caralie,Vairow,Mark-10,Vikas Kishanrao Thamke,Qualified,3/27/2017
+LE-278-66294,SP-1j3802q0,Sandy Gorler,Sandy,Gorler,Belts,Vishal Shakya,Qualified,04-01-2017
+LE-518-85907,A-1s3102u0,Fredek Heffer,Fredek,Heffer,Jarvis-5 T,Vishal Shakya,Qualified,5/20/2017
+LE-995-51033,SP-9o2014z5,Ester Baud,Ester,Baud,Frame,Hitesh Madhukar Patil,Qualified,10-11-2017
+LE-950-87215,SP-4o9597q4,Ly Menchenton,Ly,Menchenton,Filament,Vishal Shakya,Qualified,11/18/2017
+LE-135-33244,SP-9o2014z5,Montague Aldins,Montague,Aldins,Frame,Vikas Kishanrao Thamke,Qualified,12-10-2017
+LE-414-69770,A-4r4833h7,Stephannie Winchcomb,Stephannie,Winchcomb,Mark-1,Amandeep Singh,Qualified,6/19/2017
+LE-111-26725,A-9o2147a8,Maris Eakly,Maris,Eakly,Mark-50,Hitesh Madhukar Patil,Qualified,01-11-2018
+LE-220-47943,SP-6x5102j8,Hammad Handscombe,Hammad,Handscombe,Controller Board,Amandeep Singh,Qualified,11/26/2017
+LE-787-59826,A-0u7085f0,Kissie Crossingham,Kissie,Crossingham,Mark-10,Hitesh Madhukar Patil,Qualified,2/23/2018
+LE-017-76234,SP-4o9597q4,Melonie Von Gladbach,Melonie,Von Gladbach,Filament,Vikas Kishanrao Thamke,Qualified,08-06-2017
+LE-943-31255,A-9i3568y3,Dinah McLafferty,Dinah,McLafferty,Mark-5,Vishal Shakya,Qualified,2/21/2017
+LE-585-13734,A-9i3568y3,Dinny Arundale,Dinny,Arundale,Mark-5,Amandeep Singh,Qualified,2/21/2017
+LE-054-45741,SP-7g2488r5,Romeo Leed,Romeo,Leed,Print Bed,Vishal Shakya,Qualified,10/27/2017
+LE-320-49149,A-1s3102u0,Allan Husthwaite,Allan,Husthwaite,Jarvis-5 T,Vishal Shakya,Qualified,12-04-2017
+LE-006-95037,A-0u7085f0,Frederique Rickerd,Frederique,Rickerd,Mark-10,Amandeep Singh,Qualified,12-06-2017
+LE-366-64634,A-4r4833h7,Roseann Pahl,Roseann,Pahl,Mark-1,Vishal Shakya,Qualified,2/15/2017
+LE-115-23672,SP-9o2014z5,Ninnette Davet,Ninnette,Davet,Frame,Vishal Shakya,Qualified,06-02-2017
+LE-273-34546,A-5q8351o1,Guy Cino,Guy,Cino,Jarvis-1 T,Vishal Shakya,Qualified,12/25/2017
+LE-685-97479,A-9o2147a8,Niels Killgus,Niels,Killgus,Mark-50,Amandeep Singh,Qualified,2/22/2018
+LE-403-71985,SP-9o2014z5,Sigismond Youtead,Sigismond,Youtead,Frame,Vishal Shakya,Qualified,04-03-2017
+LE-269-41586,SP-9o2014z5,Elston Ianizzi,Elston,Ianizzi,Frame,Vikas Kishanrao Thamke,Qualified,02-11-2018
+LE-758-87195,A-0u7085f0,Cathi Folke,Cathi,Folke,Mark-10,Amandeep Singh,Qualified,5/18/2017
+LE-037-84591,A-1s3102u0,Kristal Wilgar,Kristal,Wilgar,Jarvis-5 T,Vishal Shakya,Qualified,11/19/2017
+LE-865-06110,SP-4o9597q4,Ami O'Gready,Ami,O'Gready,Filament,Vikas Kishanrao Thamke,Qualified,6/16/2017
+LE-729-97144,SP-4o9597q4,Trudi Bedboro,Trudi,Bedboro,Filament,Hitesh Madhukar Patil,Qualified,03-08-2017
+LE-097-43659,SP-6x5102j8,Nobie Toland,Nobie,Toland,Controller Board,Vikas Kishanrao Thamke,Qualified,09-09-2017
+LE-235-50778,SP-7g2488r5,Ebony Giampietro,Ebony,Giampietro,Print Bed,Amandeep Singh,Qualified,12/16/2017
+LE-622-01667,SP-6x5102j8,Christen Lomond,Christen,Lomond,Controller Board,Hitesh Madhukar Patil,Qualified,02-07-2018
+LE-372-55541,A-0u7085f0,Caldwell Gorgl,Caldwell,Gorgl,Mark-10,Hitesh Madhukar Patil,Qualified,8/23/2017
+LE-207-84539,SP-1j3802q0,Jeno Longforth,Jeno,Longforth,Belts,Vikas Kishanrao Thamke,Qualified,1/24/2018
+LE-215-67572,S-3h9809u2,Loree Gladding,Loree,Gladding,Software and Drivers,Vishal Shakya,Qualified,12-02-2017
+LE-470-33453,A-0u7085f0,Mort Davidovitch,Mort,Davidovitch,Mark-10,Vikas Kishanrao Thamke,Qualified,8/23/2017
+LE-828-14036,S-3h9809u2,Guenevere McMahon,Guenevere,McMahon,Software and Drivers,Vishal Shakya,Qualified,10-07-2017
+LE-940-43566,A-9o2147a8,Gav Jado,Gav,Jado,Mark-50,Vishal Shakya,Qualified,02-07-2018
+LE-975-28831,SP-9o2014z5,Odelinda Antoniottii,Odelinda,Antoniottii,Frame,Vishal Shakya,Qualified,12/24/2017
+LE-796-91760,A-4r4833h7,Kirstyn Matissoff,Kirstyn,Matissoff,Mark-1,Amandeep Singh,Qualified,06-11-2017
+LE-547-96308,A-0u7085f0,Vivie Stiegers,Vivie,Stiegers,Mark-10,Vishal Shakya,Qualified,12/27/2017
+LE-701-38829,A-4r4833h7,Poul Tolland,Poul,Tolland,Mark-1,Amandeep Singh,Qualified,12/19/2017
+LE-974-11755,A-9o2147a8,Lorne Courteney,Lorne,Courteney,Mark-50,Vishal Shakya,Qualified,09-02-2017
+LE-890-52166,SP-4o9597q4,Jeanine Vardie,Jeanine,Vardie,Filament,Vishal Shakya,Qualified,09-12-2017
+LE-353-86143,S-3h9809u2,Carny Marzelo,Carny,Marzelo,Software and Drivers,Hitesh Madhukar Patil,Qualified,05-12-2017
+LE-759-14079,SP-4o9597q4,Elmira Escalera,Elmira,Escalera,Filament,Vikas Kishanrao Thamke,Qualified,05-01-2017
+LE-230-66133,A-1s3102u0,Harwilll Flexman,Harwilll,Flexman,Jarvis-5 T,Vishal Shakya,Qualified,08-02-2017
+LE-491-08873,SP-7g2488r5,Spence Tourry,Spence,Tourry,Print Bed,Amandeep Singh,Qualified,10-06-2017
+LE-756-77243,A-9i3568y3,Jacquelyn Ralston,Jacquelyn,Ralston,Mark-5,Hitesh Madhukar Patil,Qualified,8/28/2017
+LE-685-60300,A-5q8351o1,Ola Dusting,Ola,Dusting,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,3/27/2017
+LE-025-46956,SP-9o2014z5,Mose Lopes,Mose,Lopes,Frame,Hitesh Madhukar Patil,Qualified,01-09-2018
+LE-676-32019,A-9i3568y3,Willette Hillen,Willette,Hillen,Mark-5,Vikas Kishanrao Thamke,Qualified,7/30/2017
+LE-504-52390,SP-6x5102j8,Renee Glew,Renee,Glew,Controller Board,Hitesh Madhukar Patil,Qualified,2/22/2018
+LE-008-63124,SP-9o2014z5,Katusha Lethlay,Katusha,Lethlay,Frame,Vikas Kishanrao Thamke,Qualified,7/23/2017
+LE-606-75568,A-1s3102u0,Ogdon Hambrook,Ogdon,Hambrook,Jarvis-5 T,Vishal Shakya,Qualified,4/19/2017
+LE-125-41569,SP-9o2014z5,Mayor I'anson,Mayor,I'anson,Frame,Hitesh Madhukar Patil,Qualified,11-07-2017
+LE-389-05513,A-1s3102u0,Kellby Pountney,Kellby,Pountney,Jarvis-5 T,Vishal Shakya,Qualified,02-01-2017
+LE-933-76255,A-9i3568y3,Manny Brabham,Manny,Brabham,Mark-5,Vikas Kishanrao Thamke,Qualified,09-05-2017
+LE-830-01317,A-4r4833h7,Jehu Kyston,Jehu,Kyston,Mark-1,Hitesh Madhukar Patil,Qualified,01-10-2018
+LE-268-62879,A-0u7085f0,Darin Extil,Darin,Extil,Mark-10,Vikas Kishanrao Thamke,Qualified,02-06-2017
+LE-528-41568,S-3h9809u2,Marya Clemits,Marya,Clemits,Software and Drivers,Hitesh Madhukar Patil,Qualified,7/23/2017
+LE-327-92372,SP-7g2488r5,Webb Bogey,Webb,Bogey,Print Bed,Amandeep Singh,Qualified,06-03-2017
+LE-387-66165,SP-4o9597q4,Brody Iacovelli,Brody,Iacovelli,Filament,Amandeep Singh,Qualified,9/27/2017
+LE-970-30301,SP-1j3802q0,Jacquette Candelin,Jacquette,Candelin,Belts,Vishal Shakya,Qualified,5/24/2017
+LE-515-21182,A-1s3102u0,Giorgio Mioni,Giorgio,Mioni,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,10/20/2017
+LE-595-56126,SP-9o2014z5,Megan Copeman,Megan,Copeman,Frame,Amandeep Singh,Qualified,7/27/2017
+LE-133-74913,SP-7g2488r5,Manfred Ysson,Manfred,Ysson,Print Bed,Vishal Shakya,Qualified,7/16/2017
+LE-959-52043,SP-1j3802q0,Cheri Furphy,Cheri,Furphy,Belts,Hitesh Madhukar Patil,Qualified,02-06-2017
+LE-306-87624,S-3h9809u2,Filide Lomasna,Filide,Lomasna,Software and Drivers,Vishal Shakya,Qualified,7/16/2017
+LE-522-76744,A-9o2147a8,Larina Blankenship,Larina,Blankenship,Mark-50,Amandeep Singh,Qualified,2/17/2018
+LE-892-73692,A-5q8351o1,Meghann Priestman,Meghann,Priestman,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,07-01-2017
+LE-626-14291,A-4r4833h7,Merry Boken,Merry,Boken,Mark-1,Amandeep Singh,Qualified,5/26/2017
+LE-887-42820,SP-1j3802q0,Ajay Pabelik,Ajay,Pabelik,Belts,Vishal Shakya,Qualified,8/28/2017
+LE-593-57326,SP-9o2014z5,Andre Aingel,Andre,Aingel,Frame,Hitesh Madhukar Patil,Qualified,11/21/2017
+LE-288-45807,SP-9o2014z5,Maisie Battany,Maisie,Battany,Frame,Amandeep Singh,Qualified,02-08-2017
+LE-235-25572,A-9o2147a8,Doria Twinberrow,Doria,Twinberrow,Mark-50,Amandeep Singh,Qualified,09-02-2017
+LE-297-42145,A-4r4833h7,Buck Winridge,Buck,Winridge,Mark-1,Hitesh Madhukar Patil,Qualified,12/29/2017
+LE-331-36981,A-1s3102u0,Merill Lindfors,Merill,Lindfors,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,2/15/2017
+LE-275-70741,SP-1j3802q0,Tucky Gorrick,Tucky,Gorrick,Belts,Vishal Shakya,Qualified,04-12-2017
+LE-215-53037,SP-4o9597q4,Xylia Stockport,Xylia,Stockport,Filament,Vikas Kishanrao Thamke,Qualified,2/23/2017
+LE-017-57166,SP-7g2488r5,Erinna Josham,Erinna,Josham,Print Bed,Vishal Shakya,Qualified,2/16/2018
+LE-090-68192,SP-4o9597q4,Caresse Eddins,Caresse,Eddins,Filament,Amandeep Singh,Qualified,07-04-2017
+LE-765-98145,A-0u7085f0,Natividad Gregory,Natividad,Gregory,Mark-10,Hitesh Madhukar Patil,Qualified,10/27/2017
+LE-700-28769,S-3h9809u2,Arlette Dellow,Arlette,Dellow,Software and Drivers,Hitesh Madhukar Patil,Qualified,10/13/2017
+LE-577-30071,SP-6x5102j8,Clarence Clevely,Clarence,Clevely,Controller Board,Hitesh Madhukar Patil,Qualified,9/30/2017
+LE-799-82306,SP-4o9597q4,Wyn Stanbrooke,Wyn,Stanbrooke,Filament,Amandeep Singh,Qualified,07-11-2017
+LE-466-32135,A-0u7085f0,Torie Dana,Torie,Dana,Mark-10,Vishal Shakya,Qualified,11/15/2017
+LE-050-87749,A-9o2147a8,Eal Brideau,Eal,Brideau,Mark-50,Vishal Shakya,Qualified,9/28/2017
+LE-510-16032,A-0u7085f0,Saloma McFayden,Saloma,McFayden,Mark-10,Amandeep Singh,Qualified,6/17/2017
+LE-074-63796,SP-1j3802q0,Dar Gillham,Dar,Gillham,Belts,Vishal Shakya,Qualified,02-10-2018
+LE-377-87912,A-0u7085f0,Judi Chancellor,Judi,Chancellor,Mark-10,Hitesh Madhukar Patil,Qualified,06-07-2017
+LE-295-10530,A-9i3568y3,Arlene Paulsson,Arlene,Paulsson,Mark-5,Vishal Shakya,Qualified,10/23/2017
+LE-212-33632,SP-1j3802q0,Ansley Booij,Ansley,Booij,Belts,Vikas Kishanrao Thamke,Qualified,4/28/2017
+LE-935-72582,SP-6x5102j8,Ellyn Garz,Ellyn,Garz,Controller Board,Hitesh Madhukar Patil,Qualified,05-01-2017
+LE-510-25181,SP-9o2014z5,Starlin Luppitt,Starlin,Luppitt,Frame,Vishal Shakya,Qualified,07-06-2017
+LE-330-42127,S-3h9809u2,Worden Ellacott,Worden,Ellacott,Software and Drivers,Hitesh Madhukar Patil,Qualified,7/19/2017
+LE-354-11727,A-4r4833h7,Carlotta Yeowell,Carlotta,Yeowell,Mark-1,Hitesh Madhukar Patil,Qualified,08-10-2017
+LE-130-78394,A-9i3568y3,Muffin Keysall,Muffin,Keysall,Mark-5,Vishal Shakya,Qualified,9/18/2017
+LE-653-39118,SP-7g2488r5,Hildagarde Chedgey,Hildagarde,Chedgey,Print Bed,Vikas Kishanrao Thamke,Qualified,07-06-2017
+LE-125-01954,A-5q8351o1,Brandice Late,Brandice,Late,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,11/24/2017
+LE-104-78191,A-4r4833h7,Bondon Dace,Bondon,Dace,Mark-1,Vishal Shakya,Qualified,10-02-2017
+LE-117-39364,A-5q8351o1,Peggy Callingham,Peggy,Callingham,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,5/14/2017
+LE-233-43284,SP-7g2488r5,Kevan Middis,Kevan,Middis,Print Bed,Amandeep Singh,Qualified,12-07-2017
+LE-408-71286,S-3h9809u2,Nata Niblock,Nata,Niblock,Software and Drivers,Amandeep Singh,Qualified,1/25/2018
+LE-225-65192,SP-9o2014z5,Adina Cradock,Adina,Cradock,Frame,Amandeep Singh,Qualified,03-10-2017
+LE-879-39214,SP-4o9597q4,Viki Grollmann,Viki,Grollmann,Filament,Amandeep Singh,Qualified,12-12-2017
+LE-608-48994,A-5q8351o1,Ervin Houseley,Ervin,Houseley,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,12/28/2017
+LE-060-77264,SP-1j3802q0,Arlan Yukhin,Arlan,Yukhin,Belts,Vikas Kishanrao Thamke,Qualified,11-07-2017
+LE-132-31716,SP-7g2488r5,Alanson Hughf,Alanson,Hughf,Print Bed,Amandeep Singh,Qualified,02-12-2018
+LE-739-85400,SP-6x5102j8,Rosanne Kahane,Rosanne,Kahane,Controller Board,Vikas Kishanrao Thamke,Qualified,1/16/2018
+LE-628-84385,A-1s3102u0,Lanny Merrydew,Lanny,Merrydew,Jarvis-5 T,Vishal Shakya,Qualified,07-07-2017
+LE-428-77025,A-9o2147a8,Ephrem Wyllis,Ephrem,Wyllis,Mark-50,Vikas Kishanrao Thamke,Qualified,12-05-2017
+LE-053-70933,A-9o2147a8,Daniele Allicock,Daniele,Allicock,Mark-50,Vishal Shakya,Qualified,8/29/2017
+LE-290-09039,A-1s3102u0,Neda Dyshart,Neda,Dyshart,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,12-10-2017
+LE-509-21139,A-9i3568y3,Hubert Willden,Hubert,Willden,Mark-5,Vishal Shakya,Qualified,11/14/2017
+LE-377-50935,A-0u7085f0,Bert Dodgson,Bert,Dodgson,Mark-10,Hitesh Madhukar Patil,Qualified,3/16/2017
+LE-712-37512,SP-4o9597q4,Flem Smallshaw,Flem,Smallshaw,Filament,Hitesh Madhukar Patil,Qualified,9/26/2017
+LE-870-70328,A-9o2147a8,Chaim Alger,Chaim,Alger,Mark-50,Vikas Kishanrao Thamke,Qualified,02-04-2017
+LE-432-32378,SP-1j3802q0,Analiese Ricson,Analiese,Ricson,Belts,Vikas Kishanrao Thamke,Qualified,3/20/2017
+LE-838-27642,A-1s3102u0,Farly Beazley,Farly,Beazley,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,7/15/2017
+LE-337-14230,A-9o2147a8,Corrie Kyles,Corrie,Kyles,Mark-50,Vishal Shakya,Qualified,3/19/2017
+LE-928-46083,SP-1j3802q0,Catrina Pikhno,Catrina,Pikhno,Belts,Vikas Kishanrao Thamke,Qualified,02-09-2018
+LE-600-49722,SP-4o9597q4,Rickert McRoberts,Rickert,McRoberts,Filament,Vishal Shakya,Qualified,10-10-2017
+LE-539-47637,A-1s3102u0,Gonzalo Birchenough,Gonzalo,Birchenough,Jarvis-5 T,Amandeep Singh,Qualified,09-03-2017
+LE-374-07256,SP-4o9597q4,Jasmine MacSween,Jasmine,MacSween,Filament,Hitesh Madhukar Patil,Qualified,2/19/2018
+LE-074-95665,A-1s3102u0,Chantalle Juster,Chantalle,Juster,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,06-01-2017
+LE-345-74131,A-1s3102u0,Leanor Semon,Leanor,Semon,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,3/24/2017
+LE-334-34654,SP-6x5102j8,Jerry Simounet,Jerry,Simounet,Controller Board,Hitesh Madhukar Patil,Qualified,6/18/2017
+LE-289-03628,A-1s3102u0,Melisenda Prosek,Melisenda,Prosek,Jarvis-5 T,Amandeep Singh,Qualified,7/16/2017
+LE-154-62830,S-3h9809u2,Beltran Sibille,Beltran,Sibille,Software and Drivers,Amandeep Singh,Qualified,2/28/2017
+LE-050-18292,A-5q8351o1,Glenna Caraher,Glenna,Caraher,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,8/23/2017
+LE-368-83210,A-9o2147a8,Alisun Echelle,Alisun,Echelle,Mark-50,Vikas Kishanrao Thamke,Qualified,2/22/2017
+LE-504-28804,SP-9o2014z5,Irita Amesbury,Irita,Amesbury,Frame,Amandeep Singh,Qualified,06-11-2017
+LE-940-36751,SP-6x5102j8,Tamarra Pydcock,Tamarra,Pydcock,Controller Board,Amandeep Singh,Qualified,9/25/2017
+LE-306-48892,SP-1j3802q0,Anders Blackway,Anders,Blackway,Belts,Hitesh Madhukar Patil,Qualified,07-10-2017
+LE-202-22328,SP-9o2014z5,Conn Gaskins,Conn,Gaskins,Frame,Vishal Shakya,Qualified,4/14/2017
+LE-481-57649,SP-1j3802q0,Dasya Fleisch,Dasya,Fleisch,Belts,Amandeep Singh,Qualified,10/15/2017
+LE-360-95447,S-3h9809u2,Gilly Assandri,Gilly,Assandri,Software and Drivers,Hitesh Madhukar Patil,Qualified,7/17/2017
+LE-745-85876,SP-6x5102j8,Jodee Habard,Jodee,Habard,Controller Board,Vishal Shakya,Qualified,6/20/2017
+LE-208-58880,A-9o2147a8,Birch Gammon,Birch,Gammon,Mark-50,Vikas Kishanrao Thamke,Qualified,4/20/2017
+LE-820-03784,A-9i3568y3,Blinni Maitland,Blinni,Maitland,Mark-5,Amandeep Singh,Qualified,12/17/2017
+LE-403-67034,A-9i3568y3,Eirena Biaggetti,Eirena,Biaggetti,Mark-5,Vikas Kishanrao Thamke,Qualified,04-03-2017
+LE-235-35199,SP-9o2014z5,Abbie Lusty,Abbie,Lusty,Frame,Vishal Shakya,Qualified,02-06-2017
+LE-484-13055,SP-4o9597q4,Raynor Rubinow,Raynor,Rubinow,Filament,Vishal Shakya,Qualified,4/28/2017
+LE-556-73149,SP-6x5102j8,Holmes Fulger,Holmes,Fulger,Controller Board,Vikas Kishanrao Thamke,Qualified,9/28/2017
+LE-231-00632,A-5q8351o1,Shirley Jones,Shirley,Jones,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,02-05-2017
+LE-760-39445,A-1s3102u0,Gennie Ridge,Gennie,Ridge,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,11-12-2017
+LE-479-09612,A-4r4833h7,Celina Langhorne,Celina,Langhorne,Mark-1,Vikas Kishanrao Thamke,Qualified,1/18/2018
+LE-792-21643,SP-9o2014z5,Garret Seckom,Garret,Seckom,Frame,Vikas Kishanrao Thamke,Qualified,6/29/2017
+LE-034-53083,SP-7g2488r5,Briny Kidwell,Briny,Kidwell,Print Bed,Vikas Kishanrao Thamke,Qualified,04-09-2017
+LE-158-98912,SP-1j3802q0,Dominica Cicerone,Dominica,Cicerone,Belts,Hitesh Madhukar Patil,Qualified,08-01-2017
+LE-908-13804,A-9i3568y3,Ciel O'Shevlan,Ciel,O'Shevlan,Mark-5,Amandeep Singh,Qualified,1/26/2018
+LE-141-78006,A-9o2147a8,Levy Hansberry,Levy,Hansberry,Mark-50,Vikas Kishanrao Thamke,Qualified,11/24/2017
+LE-933-35884,A-0u7085f0,Gray Trotter,Gray,Trotter,Mark-10,Amandeep Singh,Qualified,07-04-2017
+LE-172-74779,A-1s3102u0,Cloris Masseo,Cloris,Masseo,Jarvis-5 T,Vishal Shakya,Qualified,8/28/2017
+LE-022-28587,A-9i3568y3,Correy Sammut,Correy,Sammut,Mark-5,Vishal Shakya,Qualified,09-05-2017
+LE-323-80305,A-0u7085f0,Isac Brute,Isac,Brute,Mark-10,Hitesh Madhukar Patil,Qualified,06-11-2017
+LE-924-83544,SP-4o9597q4,Perla Dachey,Perla,Dachey,Filament,Amandeep Singh,Qualified,12/25/2017
+LE-742-58255,SP-4o9597q4,Webb Swains,Webb,Swains,Filament,Vishal Shakya,Qualified,3/24/2017
+LE-513-57646,SP-9o2014z5,Dorothee Oglethorpe,Dorothee,Oglethorpe,Frame,Vishal Shakya,Qualified,12-02-2017
+LE-409-92130,A-5q8351o1,Adrea Murdie,Adrea,Murdie,Jarvis-1 T,Amandeep Singh,Qualified,8/29/2017
+LE-375-49183,A-9i3568y3,Brigit Sowersby,Brigit,Sowersby,Mark-5,Vikas Kishanrao Thamke,Qualified,1/26/2018
+LE-626-09905,SP-4o9597q4,Nicko Kellock,Nicko,Kellock,Filament,Vikas Kishanrao Thamke,Qualified,07-04-2017
+LE-854-98009,SP-1j3802q0,Avrom Pesic,Avrom,Pesic,Belts,Vishal Shakya,Qualified,8/17/2017
+LE-435-35543,SP-7g2488r5,Cindi Simmance,Cindi,Simmance,Print Bed,Amandeep Singh,Qualified,8/30/2017
+LE-194-63787,A-1s3102u0,Fiann Fayers,Fiann,Fayers,Jarvis-5 T,Vishal Shakya,Qualified,7/30/2017
+LE-820-21833,SP-1j3802q0,Raquela McAreavey,Raquela,McAreavey,Belts,Hitesh Madhukar Patil,Qualified,9/15/2017
+LE-629-91137,A-9i3568y3,Micki Rickword,Micki,Rickword,Mark-5,Vikas Kishanrao Thamke,Qualified,4/26/2017
+LE-664-58329,A-9i3568y3,Gothart Oulet,Gothart,Oulet,Mark-5,Vishal Shakya,Qualified,10-09-2017
+LE-871-10625,SP-9o2014z5,Stacy Candlin,Stacy,Candlin,Frame,Hitesh Madhukar Patil,Qualified,9/24/2017
+LE-446-27071,A-5q8351o1,Bobinette Harriagn,Bobinette,Harriagn,Jarvis-1 T,Vishal Shakya,Qualified,04-06-2017
+LE-606-83638,A-9i3568y3,Mandel Doggett,Mandel,Doggett,Mark-5,Hitesh Madhukar Patil,Qualified,03-07-2017
+LE-240-40729,SP-7g2488r5,Karlotte Braikenridge,Karlotte,Braikenridge,Print Bed,Amandeep Singh,Qualified,11/24/2017
+LE-627-66895,SP-4o9597q4,Delcina Smy,Delcina,Smy,Filament,Vikas Kishanrao Thamke,Qualified,5/24/2017
+LE-460-40913,A-5q8351o1,Christabella Musk,Christabella,Musk,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,3/17/2017
+LE-989-22773,A-9i3568y3,Randal Bras,Randal,Bras,Mark-5,Vishal Shakya,Qualified,12-09-2017
+LE-771-21406,SP-1j3802q0,Winnie Domoney,Winnie,Domoney,Belts,Amandeep Singh,Qualified,07-04-2017
+LE-623-30908,SP-7g2488r5,Hagen Tumbelty,Hagen,Tumbelty,Print Bed,Amandeep Singh,Qualified,3/30/2017
+LE-805-76973,SP-9o2014z5,Elsinore Gorgl,Elsinore,Gorgl,Frame,Vikas Kishanrao Thamke,Qualified,12/13/2017
+LE-298-58042,SP-6x5102j8,Silvano Chaudrelle,Silvano,Chaudrelle,Controller Board,Hitesh Madhukar Patil,Qualified,2/28/2017
+LE-943-88904,SP-9o2014z5,Broddy Owain,Broddy,Owain,Frame,Amandeep Singh,Qualified,02-02-2017
+LE-242-16133,SP-7g2488r5,Brigitte Capstack,Brigitte,Capstack,Print Bed,Amandeep Singh,Qualified,04-04-2017
+LE-598-40362,SP-6x5102j8,Florian Hutt,Florian,Hutt,Controller Board,Vikas Kishanrao Thamke,Qualified,5/20/2017
+LE-067-74824,A-0u7085f0,Sherm Cadney,Sherm,Cadney,Mark-10,Hitesh Madhukar Patil,Qualified,7/25/2017
+LE-593-70246,SP-4o9597q4,Paule Hissie,Paule,Hissie,Filament,Hitesh Madhukar Patil,Qualified,06-08-2017
+LE-662-15281,SP-6x5102j8,Darya Darington,Darya,Darington,Controller Board,Hitesh Madhukar Patil,Qualified,07-12-2017
+LE-937-85565,A-0u7085f0,Abdel Gascoyne,Abdel,Gascoyne,Mark-10,Vishal Shakya,Qualified,8/24/2017
+LE-078-71829,SP-4o9597q4,Klarrisa Dwight,Klarrisa,Dwight,Filament,Hitesh Madhukar Patil,Qualified,3/27/2017
+LE-998-29791,SP-4o9597q4,Herman Self,Herman,Self,Filament,Hitesh Madhukar Patil,Qualified,10/13/2017
+LE-974-04040,A-1s3102u0,Elset Losano,Elset,Losano,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,1/18/2018
+LE-209-81834,A-1s3102u0,Natalee Tunnicliff,Natalee,Tunnicliff,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,10-06-2017
+LE-467-20575,A-9o2147a8,Herby McAlpine,Herby,McAlpine,Mark-50,Amandeep Singh,Qualified,06-12-2017
+LE-446-21242,A-9i3568y3,Reilly Crew,Reilly,Crew,Mark-5,Hitesh Madhukar Patil,Qualified,7/13/2017
+LE-733-94160,SP-9o2014z5,Smitty Eixenberger,Smitty,Eixenberger,Frame,Vikas Kishanrao Thamke,Qualified,7/13/2017
+LE-546-80572,A-0u7085f0,Dannye Warren,Dannye,Warren,Mark-10,Hitesh Madhukar Patil,Qualified,7/17/2017
+LE-946-03399,A-1s3102u0,Millicent Haversum,Millicent,Haversum,Jarvis-5 T,Vishal Shakya,Qualified,8/28/2017
+LE-370-63733,SP-4o9597q4,Chad Lochran,Chad,Lochran,Filament,Vishal Shakya,Qualified,12-07-2017
+LE-000-71735,A-9o2147a8,Cindi Buddington,Cindi,Buddington,Mark-50,Hitesh Madhukar Patil,Qualified,2/23/2018
+LE-221-23363,SP-6x5102j8,Wally Bateup,Wally,Bateup,Controller Board,Hitesh Madhukar Patil,Qualified,09-06-2017
+LE-881-04136,A-9i3568y3,Jess Smail,Jess,Smail,Mark-5,Hitesh Madhukar Patil,Qualified,1/26/2018
+LE-454-58558,SP-9o2014z5,Jasmin Bradneck,Jasmin,Bradneck,Frame,Amandeep Singh,Qualified,11-08-2017
+LE-553-38652,SP-4o9597q4,Craig Chrichton,Craig,Chrichton,Filament,Vishal Shakya,Qualified,11-09-2017
+LE-494-20591,SP-1j3802q0,Maren Hutten,Maren,Hutten,Belts,Vishal Shakya,Qualified,12/25/2017
+LE-560-58103,A-5q8351o1,Sondra Butcher,Sondra,Butcher,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,6/20/2017
+LE-282-37456,SP-4o9597q4,Talbert Penson,Talbert,Penson,Filament,Amandeep Singh,Qualified,6/24/2017
+LE-816-45474,SP-7g2488r5,Christina Lander,Christina,Lander,Print Bed,Vikas Kishanrao Thamke,Qualified,7/18/2017
+LE-032-33226,S-3h9809u2,Fifi Forsdike,Fifi,Forsdike,Software and Drivers,Amandeep Singh,Qualified,01-03-2018
+LE-075-48798,A-4r4833h7,Jess Roizn,Jess,Roizn,Mark-1,Vishal Shakya,Qualified,12-08-2017
+LE-286-98894,S-3h9809u2,Hersch Denerley,Hersch,Denerley,Software and Drivers,Hitesh Madhukar Patil,Qualified,5/26/2017
+LE-071-96272,S-3h9809u2,Michel Shilladay,Michel,Shilladay,Software and Drivers,Vikas Kishanrao Thamke,Qualified,12/27/2017
+LE-364-26420,A-5q8351o1,Giffie Bladen,Giffie,Bladen,Jarvis-1 T,Amandeep Singh,Qualified,2/26/2018
+LE-233-57988,A-0u7085f0,Phoebe Yearnsley,Phoebe,Yearnsley,Mark-10,Vishal Shakya,Qualified,01-03-2018
+LE-134-86980,A-9i3568y3,Tris Varfolomeev,Tris,Varfolomeev,Mark-5,Vishal Shakya,Qualified,06-11-2017
+LE-251-77304,SP-6x5102j8,Korry Sizzey,Korry,Sizzey,Controller Board,Vikas Kishanrao Thamke,Qualified,07-06-2017
+LE-382-98696,A-1s3102u0,Brunhilde Sushams,Brunhilde,Sushams,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,03-10-2017
+LE-028-83743,A-1s3102u0,Nelia Isenor,Nelia,Isenor,Jarvis-5 T,Vishal Shakya,Qualified,10/22/2017
+LE-684-70927,SP-1j3802q0,Vivianne Pezey,Vivianne,Pezey,Belts,Vikas Kishanrao Thamke,Qualified,6/29/2017
+LE-762-51396,SP-9o2014z5,Mirna Conachy,Mirna,Conachy,Frame,Vikas Kishanrao Thamke,Qualified,1/20/2018
+LE-973-77283,SP-6x5102j8,Rodi Theuff,Rodi,Theuff,Controller Board,Amandeep Singh,Qualified,2/20/2018
+LE-858-31230,SP-6x5102j8,Odette Adey,Odette,Adey,Controller Board,Amandeep Singh,Qualified,8/17/2017
+LE-964-34185,A-5q8351o1,Raul Test,Raul,Test,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,2/20/2018
+LE-390-93162,SP-4o9597q4,Aylmer Mallison,Aylmer,Mallison,Filament,Vishal Shakya,Qualified,09-10-2017
+LE-026-45116,SP-4o9597q4,Matty Slaght,Matty,Slaght,Filament,Vishal Shakya,Qualified,12-09-2017
+LE-029-76139,S-3h9809u2,Ragnar Allery,Ragnar,Allery,Software and Drivers,Amandeep Singh,Qualified,02-05-2018
+LE-786-09862,SP-6x5102j8,Marlin Aysik,Marlin,Aysik,Controller Board,Hitesh Madhukar Patil,Qualified,12-03-2017
+LE-450-18394,SP-6x5102j8,Felita O' Brian,Felita,O' Brian,Controller Board,Amandeep Singh,Qualified,1/27/2018
+LE-604-34161,A-0u7085f0,Nina Clausius,Nina,Clausius,Mark-10,Vikas Kishanrao Thamke,Qualified,12/21/2017
+LE-675-84502,A-9o2147a8,Retha Najara,Retha,Najara,Mark-50,Hitesh Madhukar Patil,Qualified,12/28/2017
+LE-328-38086,A-5q8351o1,Kermy Mish,Kermy,Mish,Jarvis-1 T,Amandeep Singh,Qualified,3/13/2017
+LE-793-28843,A-4r4833h7,Moselle Shuttlewood,Moselle,Shuttlewood,Mark-1,Amandeep Singh,Qualified,11/23/2017
+LE-540-56658,SP-7g2488r5,Riordan Stiger,Riordan,Stiger,Print Bed,Amandeep Singh,Qualified,4/26/2017
+LE-318-77712,A-5q8351o1,Powell Berndt,Powell,Berndt,Jarvis-1 T,Amandeep Singh,Qualified,6/16/2017
+LE-878-57757,A-1s3102u0,Alfred Colbeck,Alfred,Colbeck,Jarvis-5 T,Vishal Shakya,Qualified,11/17/2017
+LE-470-28652,A-9o2147a8,Constantine Fackney,Constantine,Fackney,Mark-50,Vikas Kishanrao Thamke,Qualified,10/30/2017
+LE-101-34703,S-3h9809u2,Dorree Lighterness,Dorree,Lighterness,Software and Drivers,Hitesh Madhukar Patil,Qualified,12-01-2017
+LE-159-11058,SP-7g2488r5,Shelden Gostyke,Shelden,Gostyke,Print Bed,Amandeep Singh,Qualified,10-07-2017
+LE-280-02582,A-9o2147a8,Judd Straker,Judd,Straker,Mark-50,Amandeep Singh,Qualified,11/24/2017
+LE-829-38049,SP-9o2014z5,Hugibert Peeter,Hugibert,Peeter,Frame,Vishal Shakya,Qualified,05-05-2017
+LE-881-11832,SP-4o9597q4,Anneliese Moxted,Anneliese,Moxted,Filament,Hitesh Madhukar Patil,Qualified,12-07-2017
+LE-930-23551,S-3h9809u2,Eduard Charleston,Eduard,Charleston,Software and Drivers,Vikas Kishanrao Thamke,Qualified,2/14/2018
+LE-153-10311,A-5q8351o1,Deeann O'Donegan,Deeann,O'Donegan,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,1/29/2018
+LE-713-44384,A-4r4833h7,Jess Pellamonuten,Jess,Pellamonuten,Mark-1,Vishal Shakya,Qualified,3/15/2017
+LE-723-03055,A-0u7085f0,Danette Fairleigh,Danette,Fairleigh,Mark-10,Vikas Kishanrao Thamke,Qualified,12-07-2017
+LE-908-87244,SP-9o2014z5,Jesselyn Figgen,Jesselyn,Figgen,Frame,Vikas Kishanrao Thamke,Qualified,4/15/2017
+LE-372-42535,A-9i3568y3,Natasha Foan,Natasha,Foan,Mark-5,Hitesh Madhukar Patil,Qualified,6/29/2017
+LE-719-01520,A-9i3568y3,Leonie Ivanenko,Leonie,Ivanenko,Mark-5,Vikas Kishanrao Thamke,Qualified,2/25/2018
+LE-719-50796,SP-9o2014z5,Cornelius Margrett,Cornelius,Margrett,Frame,Vikas Kishanrao Thamke,Qualified,10/29/2017
+LE-386-37428,SP-4o9597q4,Rees Louca,Rees,Louca,Filament,Vishal Shakya,Qualified,1/13/2018
+LE-075-08720,A-9i3568y3,Germana Gonsalvez,Germana,Gonsalvez,Mark-5,Hitesh Madhukar Patil,Qualified,2/20/2018
+LE-899-28267,A-9i3568y3,Willdon Ransfield,Willdon,Ransfield,Mark-5,Amandeep Singh,Qualified,1/24/2018
+LE-830-35790,SP-9o2014z5,Terrell Dallicott,Terrell,Dallicott,Frame,Vikas Kishanrao Thamke,Qualified,1/21/2018
+LE-563-86968,SP-1j3802q0,Foster MacNess,Foster,MacNess,Belts,Hitesh Madhukar Patil,Qualified,6/14/2017
+LE-734-76137,SP-4o9597q4,Drucill Morman,Drucill,Morman,Filament,Hitesh Madhukar Patil,Qualified,02-05-2017
+LE-407-53539,A-0u7085f0,Luce Lineker,Luce,Lineker,Mark-10,Vikas Kishanrao Thamke,Qualified,11-04-2017
+LE-373-53730,S-3h9809u2,Lolly Van der Krui,Lolly,Van der Krui,Software and Drivers,Vikas Kishanrao Thamke,Qualified,11/26/2017
+LE-551-06097,A-1s3102u0,Ruben Kneale,Ruben,Kneale,Jarvis-5 T,Amandeep Singh,Qualified,11/25/2017
+LE-245-30679,A-9i3568y3,Adams Le Gallo,Adams,Le Gallo,Mark-5,Hitesh Madhukar Patil,Qualified,6/17/2017
+LE-866-00194,SP-4o9597q4,Kayne Crose,Kayne,Crose,Filament,Amandeep Singh,Qualified,6/24/2017
+LE-943-68698,SP-4o9597q4,Stephani Merrall,Stephani,Merrall,Filament,Vikas Kishanrao Thamke,Qualified,02-06-2017
+LE-650-11055,A-5q8351o1,Eldon Streader,Eldon,Streader,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,12-02-2017
+LE-604-69525,SP-6x5102j8,Rockwell Farran,Rockwell,Farran,Controller Board,Amandeep Singh,Qualified,9/25/2017
+LE-156-79006,A-9o2147a8,Allix Corcut,Allix,Corcut,Mark-50,Vikas Kishanrao Thamke,Qualified,9/13/2017
+LE-166-60587,SP-4o9597q4,Giacopo Garrity,Giacopo,Garrity,Filament,Vikas Kishanrao Thamke,Qualified,10-02-2017
+LE-819-87152,A-9o2147a8,Rosalia Khomishin,Rosalia,Khomishin,Mark-50,Hitesh Madhukar Patil,Qualified,07-04-2017
+LE-000-83264,SP-6x5102j8,Gaylene Ambrosi,Gaylene,Ambrosi,Controller Board,Vikas Kishanrao Thamke,Qualified,07-04-2017
+LE-183-49067,A-9i3568y3,Allene Teggart,Allene,Teggart,Mark-5,Vikas Kishanrao Thamke,Qualified,3/18/2017
+LE-623-94210,A-4r4833h7,Cherey MacNeely,Cherey,MacNeely,Mark-1,Vikas Kishanrao Thamke,Qualified,12/30/2017
+LE-086-68666,SP-4o9597q4,Layla Portis,Layla,Portis,Filament,Amandeep Singh,Qualified,2/24/2017
+LE-201-33508,A-5q8351o1,Jayson Dodwell,Jayson,Dodwell,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,02-06-2017
+LE-419-51220,SP-4o9597q4,Franny McArt,Franny,McArt,Filament,Vikas Kishanrao Thamke,Qualified,8/22/2017
+LE-150-37665,SP-6x5102j8,Wang Lambrechts,Wang,Lambrechts,Controller Board,Hitesh Madhukar Patil,Qualified,4/16/2017
+LE-156-92415,A-0u7085f0,Dewey O' Loughran,Dewey,O' Loughran,Mark-10,Hitesh Madhukar Patil,Qualified,07-03-2017
+LE-223-81686,A-9o2147a8,Jeffry Howel,Jeffry,Howel,Mark-50,Vikas Kishanrao Thamke,Qualified,2/18/2018
+LE-437-17382,A-0u7085f0,Wendell Dragge,Wendell,Dragge,Mark-10,Amandeep Singh,Qualified,3/30/2017
+LE-415-57376,SP-7g2488r5,Bradly Goodinson,Bradly,Goodinson,Print Bed,Vishal Shakya,Qualified,05-05-2017
+LE-231-68551,SP-6x5102j8,Godfry Griffith,Godfry,Griffith,Controller Board,Vishal Shakya,Qualified,7/26/2017
+LE-743-17964,A-0u7085f0,Hedwig Parlot,Hedwig,Parlot,Mark-10,Vikas Kishanrao Thamke,Qualified,9/23/2017
+LE-011-62888,SP-6x5102j8,Andriette Sanches,Andriette,Sanches,Controller Board,Vishal Shakya,Qualified,5/15/2017
+LE-409-22193,A-9o2147a8,Tammy Sokale,Tammy,Sokale,Mark-50,Vishal Shakya,Qualified,2/27/2018
+LE-757-76725,SP-4o9597q4,Tamarra Fiddiman,Tamarra,Fiddiman,Filament,Hitesh Madhukar Patil,Qualified,4/17/2017
+LE-695-35049,SP-7g2488r5,Sheri Febry,Sheri,Febry,Print Bed,Amandeep Singh,Qualified,10/28/2017
+LE-595-67836,A-0u7085f0,Dorena O'Doireidh,Dorena,O'Doireidh,Mark-10,Vikas Kishanrao Thamke,Qualified,01-12-2018
+LE-464-14131,S-3h9809u2,Jolee Pacht,Jolee,Pacht,Software and Drivers,Vishal Shakya,Qualified,05-07-2017
+LE-387-02170,SP-1j3802q0,Lloyd Gofforth,Lloyd,Gofforth,Belts,Vikas Kishanrao Thamke,Qualified,9/16/2017
+LE-461-93585,SP-4o9597q4,Lesley Allsop,Lesley,Allsop,Filament,Vishal Shakya,Qualified,11/29/2017
+LE-208-06517,A-4r4833h7,Guenna Foxton,Guenna,Foxton,Mark-1,Vikas Kishanrao Thamke,Qualified,1/19/2018
+LE-448-90173,A-9i3568y3,Evanne Crowth,Evanne,Crowth,Mark-5,Hitesh Madhukar Patil,Qualified,7/16/2017
+LE-553-92847,A-1s3102u0,Art Seamark,Art,Seamark,Jarvis-5 T,Amandeep Singh,Qualified,9/15/2017
+LE-169-67148,SP-6x5102j8,Zerk Beine,Zerk,Beine,Controller Board,Hitesh Madhukar Patil,Qualified,12-11-2017
+LE-016-15676,SP-1j3802q0,Pippo Strachan,Pippo,Strachan,Belts,Hitesh Madhukar Patil,Qualified,6/17/2017
+LE-581-56107,A-4r4833h7,Blinni Danihelka,Blinni,Danihelka,Mark-1,Amandeep Singh,Qualified,11/24/2017
+LE-903-08987,A-1s3102u0,Jerrine Carn,Jerrine,Carn,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,10/15/2017
+LE-783-93800,A-9o2147a8,Carter Huton,Carter,Huton,Mark-50,Vishal Shakya,Qualified,3/21/2017
+LE-628-75865,A-9i3568y3,Aguste Coviello,Aguste,Coviello,Mark-5,Amandeep Singh,Qualified,3/25/2017
+LE-969-58380,SP-9o2014z5,Barbaraanne Creak,Barbaraanne,Creak,Frame,Vikas Kishanrao Thamke,Qualified,4/25/2017
+LE-662-00702,SP-4o9597q4,Jordain McClaughlin,Jordain,McClaughlin,Filament,Hitesh Madhukar Patil,Qualified,03-11-2017
+LE-636-31360,A-1s3102u0,Orly MacAulay,Orly,MacAulay,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,03-05-2017
+LE-929-58954,A-0u7085f0,Melisent Lucius,Melisent,Lucius,Mark-10,Vishal Shakya,Qualified,02-08-2018
+LE-377-37646,SP-9o2014z5,Chloe Krishtopaittis,Chloe,Krishtopaittis,Frame,Vikas Kishanrao Thamke,Qualified,01-08-2018
+LE-296-44229,SP-1j3802q0,Xenos Mollitt,Xenos,Mollitt,Belts,Hitesh Madhukar Patil,Qualified,6/27/2017
+LE-516-43223,A-9i3568y3,Ives Trevna,Ives,Trevna,Mark-5,Amandeep Singh,Qualified,12-04-2017
+LE-080-45653,S-3h9809u2,Kelvin Slott,Kelvin,Slott,Software and Drivers,Hitesh Madhukar Patil,Qualified,07-02-2017
+LE-889-53066,SP-1j3802q0,Rivi Sneyd,Rivi,Sneyd,Belts,Hitesh Madhukar Patil,Qualified,3/23/2017
+LE-219-17909,A-0u7085f0,Augie Graben,Augie,Graben,Mark-10,Amandeep Singh,Qualified,5/25/2017
+LE-398-25763,SP-9o2014z5,Miguela Quennell,Miguela,Quennell,Frame,Hitesh Madhukar Patil,Qualified,10-09-2017
+LE-634-00703,A-1s3102u0,Putnem Stonehouse,Putnem,Stonehouse,Jarvis-5 T,Vikas Kishanrao Thamke,Qualified,11-03-2017
+LE-483-97007,SP-1j3802q0,Hillary Bridgewood,Hillary,Bridgewood,Belts,Vikas Kishanrao Thamke,Qualified,09-10-2017
+LE-910-76822,SP-4o9597q4,Rhodie Dulen,Rhodie,Dulen,Filament,Vikas Kishanrao Thamke,Qualified,9/15/2017
+LE-901-34997,A-4r4833h7,Ferdinande Dullingham,Ferdinande,Dullingham,Mark-1,Vishal Shakya,Qualified,10/28/2017
+LE-414-81161,SP-1j3802q0,Ive Rackam,Ive,Rackam,Belts,Hitesh Madhukar Patil,Qualified,06-04-2017
+LE-702-81734,A-4r4833h7,Pippa Smickle,Pippa,Smickle,Mark-1,Amandeep Singh,Qualified,4/23/2017
+LE-690-91186,SP-7g2488r5,Loy Gainsford,Loy,Gainsford,Software and Drivers,Vishal Shakya,Qualified,12-07-2017
+LE-400-77952,SP-9o2014z5,Esther Wingham,Esther,Wingham,Mark-1,Vishal Shakya,Qualified,06-09-2017
+LE-398-56426,SP-1j3802q0,Fernandina Huntall,Fernandina,Huntall,Mark-50,Vikas Kishanrao Thamke,Qualified,06-04-2017
+LE-959-51733,A-9o2147a8,Britt Petken,Britt,Petken,Software and Drivers,Vikas Kishanrao Thamke,Qualified,7/19/2017
+LE-589-79039,A-9i3568y3,Livia Percifer,Livia,Percifer,Mark-1,Vishal Shakya,Qualified,04-07-2017
+LE-298-36350,A-4r4833h7,Lanae Dufour,Lanae,Dufour,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,4/21/2017
+LE-516-37300,SP-1j3802q0,Tisha Stretton,Tisha,Stretton,Mark-50,Hitesh Madhukar Patil,Qualified,07-02-2017
+LE-987-35806,A-4r4833h7,Cullin Perchard,Cullin,Perchard,Mark-50,Amandeep Singh,Qualified,01-10-2018
+LE-307-70531,A-4r4833h7,Jada Gartshore,Jada,Gartshore,Software and Drivers,Vishal Shakya,Qualified,12-10-2017
+LE-560-23718,SP-1j3802q0,Clywd Likly,Clywd,Likly,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,03-12-2017
+LE-825-45870,A-9o2147a8,Fabien Aronin,Fabien,Aronin,Frame,Amandeep Singh,Qualified,1/30/2018
+LE-132-78423,A-9o2147a8,Sande Gambles,Sande,Gambles,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,8/29/2017
+LE-066-74177,SP-4o9597q4,Leontyne Carneck,Leontyne,Carneck,Belts,Amandeep Singh,Qualified,11-12-2017
+LE-321-45487,SP-7g2488r5,Thaxter Millgate,Thaxter,Millgate,Jarvis-1 T,Vishal Shakya,Qualified,04-06-2017
+LE-057-63387,SP-7g2488r5,Chic Pipkin,Chic,Pipkin,Mark-50,Vikas Kishanrao Thamke,Qualified,2/19/2018
+LE-256-27891,A-9o2147a8,Malena Archdeckne,Malena,Archdeckne,Mark-5,Vikas Kishanrao Thamke,Qualified,2/15/2018
+LE-526-60571,A-0u7085f0,Karrah Seckom,Karrah,Seckom,Print Bed,Amandeep Singh,Qualified,3/23/2017
+LE-751-31446,A-9o2147a8,Kaela Gounot,Kaela,Gounot,Filament,Vikas Kishanrao Thamke,Qualified,07-01-2017
+LE-224-34615,SP-6x5102j8,Osmond Siccombe,Osmond,Siccombe,Mark-1,Hitesh Madhukar Patil,Qualified,2/25/2017
+LE-655-25612,A-5q8351o1,Nicholle Plan,Nicholle,Plan,Mark-10,Vikas Kishanrao Thamke,Qualified,9/29/2017
+LE-695-75265,A-0u7085f0,Callean Klimentyonok,Callean,Klimentyonok,Mark-50,Amandeep Singh,Qualified,02-08-2018
+LE-494-59334,SP-4o9597q4,Vic Treend,Vic,Treend,Belts,Amandeep Singh,Qualified,5/22/2017
+LE-329-06357,A-4r4833h7,Krysta Roston,Krysta,Roston,Filament,Amandeep Singh,Qualified,2/26/2017
+LE-360-88879,SP-4o9597q4,Kitti Moth,Kitti,Moth,Print Bed,Vishal Shakya,Qualified,4/20/2017
+LE-651-72576,A-4r4833h7,Cal Arro,Cal,Arro,Filament,Vikas Kishanrao Thamke,Qualified,1/27/2018
+LE-025-97724,SP-9o2014z5,Mathilda Bollis,Mathilda,Bollis,Mark-50,Vishal Shakya,Qualified,11/26/2017
+LE-265-92752,SP-4o9597q4,Vincent Brittian,Vincent,Brittian,Mark-5,Vikas Kishanrao Thamke,Qualified,3/17/2017
+LE-192-26098,A-1s3102u0,Mattias Wycliffe,Mattias,Wycliffe,Mark-10,Vikas Kishanrao Thamke,Qualified,2/19/2017
+LE-774-48655,A-4r4833h7,Lamond Gebuhr,Lamond,Gebuhr,Print Bed,Vikas Kishanrao Thamke,Qualified,11/28/2017
+LE-065-09061,SP-7g2488r5,Joice Farrah,Joice,Farrah,Print Bed,Vikas Kishanrao Thamke,Qualified,10-12-2017
+LE-813-54130,SP-7g2488r5,Aurel Pinckney,Aurel,Pinckney,Controller Board,Hitesh Madhukar Patil,Qualified,9/20/2017
+LE-629-53959,SP-6x5102j8,Colline Danbye,Colline,Danbye,Mark-5,Amandeep Singh,Qualified,06-08-2017
+LE-910-55196,A-9o2147a8,Averil Arnaldo,Averil,Arnaldo,Frame,Hitesh Madhukar Patil,Qualified,6/21/2017
+LE-255-27844,A-1s3102u0,Farica Knottley,Farica,Knottley,Belts,Amandeep Singh,Qualified,11-06-2017
+LE-410-93296,A-1s3102u0,Johnna Hasnip,Johnna,Hasnip,Mark-50,Hitesh Madhukar Patil,Qualified,08-05-2017
+LE-556-42093,A-9i3568y3,Wainwright Tipper,Wainwright,Tipper,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,04-10-2017
+LE-677-44756,SP-4o9597q4,Suzi Heffernon,Suzi,Heffernon,Controller Board,Hitesh Madhukar Patil,Qualified,5/22/2017
+LE-319-63538,A-4r4833h7,Nikaniki Kynston,Nikaniki,Kynston,Software and Drivers,Vikas Kishanrao Thamke,Qualified,06-03-2017
+LE-970-39694,SP-9o2014z5,Michelle Brecher,Michelle,Brecher,Mark-5,Hitesh Madhukar Patil,Qualified,11-05-2017
+LE-367-09564,S-3h9809u2,Karla Michal,Karla,Michal,Filament,Vikas Kishanrao Thamke,Qualified,9/19/2017
+LE-512-98997,A-1s3102u0,Beth Canty,Beth,Canty,Jarvis-5 T,Amandeep Singh,Qualified,07-03-2017
+LE-041-71798,SP-7g2488r5,Verney Laingmaid,Verney,Laingmaid,Controller Board,Vikas Kishanrao Thamke,Qualified,12-06-2017
+LE-377-00882,A-5q8351o1,Barry Mayhow,Barry,Mayhow,Mark-10,Amandeep Singh,Qualified,03-09-2017
+LE-126-87124,SP-4o9597q4,Gilbert Prestland,Gilbert,Prestland,Mark-10,Amandeep Singh,Qualified,3/14/2017
+LE-833-81620,A-9i3568y3,Alverta Thorn,Alverta,Thorn,Mark-50,Vishal Shakya,Qualified,5/29/2017
+LE-415-85343,A-0u7085f0,Shannah Skeemor,Shannah,Skeemor,Belts,Vikas Kishanrao Thamke,Qualified,9/16/2017
+LE-961-69935,A-4r4833h7,Lauritz McElrea,Lauritz,McElrea,Frame,Vikas Kishanrao Thamke,Qualified,9/26/2017
+LE-304-17458,SP-7g2488r5,Bernard Denyagin,Bernard,Denyagin,Belts,Vishal Shakya,Qualified,01-11-2018
+LE-556-30750,A-5q8351o1,Sam Dedam,Sam,Dedam,Controller Board,Vishal Shakya,Qualified,4/17/2017
+LE-562-99524,SP-9o2014z5,Veda Bandey,Veda,Bandey,Mark-1,Amandeep Singh,Qualified,9/21/2017
+LE-518-77388,SP-9o2014z5,Maud Burgott,Maud,Burgott,Mark-5,Vishal Shakya,Qualified,06-01-2017
+LE-587-72947,SP-9o2014z5,Almire Demchen,Almire,Demchen,Frame,Amandeep Singh,Qualified,11-12-2017
+LE-351-78573,SP-6x5102j8,Dinny Bisacre,Dinny,Bisacre,Controller Board,Vishal Shakya,Qualified,07-12-2017
+LE-134-82144,A-9o2147a8,Rowen Smalman,Rowen,Smalman,Controller Board,Amandeep Singh,Qualified,2/16/2017
+LE-537-69092,SP-7g2488r5,Fanechka Elford,Fanechka,Elford,Belts,Vishal Shakya,Qualified,07-08-2017
+LE-495-69673,SP-1j3802q0,Cara Hawksby,Cara,Hawksby,Mark-5,Hitesh Madhukar Patil,Qualified,2/17/2018
+LE-178-81050,S-3h9809u2,Peterus Oldall,Peterus,Oldall,Belts,Hitesh Madhukar Patil,Qualified,10-12-2017
+LE-686-28591,A-9o2147a8,Carroll Gaine of England,Carroll,Gaine of England,Filament,Hitesh Madhukar Patil,Qualified,10/19/2017
+LE-046-98191,A-4r4833h7,Lawry Bevens,Lawry,Bevens,Mark-1,Amandeep Singh,Qualified,1/16/2018
+LE-089-20688,A-9o2147a8,Philipa Goodboddy,Philipa,Goodboddy,Mark-10,Vikas Kishanrao Thamke,Qualified,06-03-2017
+LE-368-93842,A-5q8351o1,Annadiane Romaines,Annadiane,Romaines,Mark-50,Hitesh Madhukar Patil,Qualified,10/22/2017
+LE-827-36911,SP-9o2014z5,Kristal Fetters,Kristal,Fetters,Filament,Amandeep Singh,Qualified,2/14/2017
+LE-722-18098,SP-1j3802q0,Odelle Kippax,Odelle,Kippax,Mark-10,Amandeep Singh,Qualified,6/27/2017
+LE-998-52556,SP-7g2488r5,Mickie Bytheway,Mickie,Bytheway,Frame,Hitesh Madhukar Patil,Qualified,8/26/2017
+LE-315-42628,A-1s3102u0,Carolus Huggett,Carolus,Huggett,Mark-50,Vishal Shakya,Qualified,11/20/2017
+LE-254-07077,A-1s3102u0,Kaylee McCaster,Kaylee,McCaster,Mark-1,Amandeep Singh,Qualified,6/26/2017
+LE-645-25413,A-9i3568y3,Johnath Sarfatti,Johnath,Sarfatti,Frame,Hitesh Madhukar Patil,Qualified,4/17/2017
+LE-889-61693,A-4r4833h7,Lebbie Faloon,Lebbie,Faloon,Mark-1,Vikas Kishanrao Thamke,Qualified,05-09-2017
+LE-194-22405,S-3h9809u2,Lilah de Clerc,Lilah,de Clerc,Frame,Amandeep Singh,Qualified,12-06-2017
+LE-134-47870,A-0u7085f0,Job Fenelon,Job,Fenelon,Frame,Vishal Shakya,Qualified,4/20/2017
+LE-180-04021,A-1s3102u0,Rivkah Thompsett,Rivkah,Thompsett,Mark-10,Vishal Shakya,Qualified,1/31/2018
+LE-645-10331,A-1s3102u0,Cliff Havile,Cliff,Havile,Mark-5,Vishal Shakya,Qualified,5/30/2017
+LE-057-96441,SP-9o2014z5,Mickie Winslet,Mickie,Winslet,Mark-1,Vishal Shakya,Qualified,03-09-2017
+LE-076-21001,SP-9o2014z5,Catha Yakovliv,Catha,Yakovliv,Mark-1,Vikas Kishanrao Thamke,Qualified,01-05-2018
+LE-460-06722,A-9i3568y3,Pooh McSparran,Pooh,McSparran,Belts,Vishal Shakya,Qualified,02-08-2018
+LE-868-33121,A-9i3568y3,Daryl Kerswill,Daryl,Kerswill,Mark-50,Amandeep Singh,Qualified,05-03-2017
+LE-104-32164,SP-4o9597q4,Sibylle Glide,Sibylle,Glide,Frame,Hitesh Madhukar Patil,Qualified,12/29/2017
+LE-239-90358,A-4r4833h7,Zuzana Saer,Zuzana,Saer,Mark-5,Hitesh Madhukar Patil,Qualified,06-09-2017
+LE-469-59479,A-1s3102u0,Nilson Tomsett,Nilson,Tomsett,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,6/13/2017
+LE-012-20878,SP-7g2488r5,Hestia Vannuccini,Hestia,Vannuccini,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,5/16/2017
+LE-009-76905,A-9i3568y3,Kylen Hampstead,Kylen,Hampstead,Controller Board,Amandeep Singh,Qualified,5/27/2017
+LE-483-10822,SP-6x5102j8,Mohandas Youle,Mohandas,Youle,Jarvis-1 T,Vishal Shakya,Qualified,1/27/2018
+LE-051-39367,A-4r4833h7,Marilee Stranio,Marilee,Stranio,Frame,Hitesh Madhukar Patil,Qualified,8/24/2017
+LE-416-39543,A-9o2147a8,Julie Banville,Julie,Banville,Filament,Amandeep Singh,Qualified,9/16/2017
+LE-331-35438,SP-6x5102j8,Rowen Kinnard,Rowen,Kinnard,Jarvis-5 T,Amandeep Singh,Qualified,11-11-2017
+LE-209-42965,SP-9o2014z5,Olivier Gedney,Olivier,Gedney,Controller Board,Hitesh Madhukar Patil,Qualified,02-06-2017
+LE-824-95954,SP-6x5102j8,Mahala Thrift,Mahala,Thrift,Mark-1,Vishal Shakya,Qualified,01-05-2018
+LE-444-11276,A-0u7085f0,Jarib Jeffery,Jarib,Jeffery,Mark-1,Vishal Shakya,Qualified,9/24/2017
+LE-700-40813,SP-4o9597q4,Freddy Colling,Freddy,Colling,Belts,Vishal Shakya,Qualified,6/17/2017
+LE-119-05257,A-0u7085f0,Jacky Andreoletti,Jacky,Andreoletti,Mark-5,Vikas Kishanrao Thamke,Qualified,4/24/2017
+LE-942-25867,SP-9o2014z5,Tiphany Brusle,Tiphany,Brusle,Software and Drivers,Vishal Shakya,Qualified,8/17/2017
+LE-062-87114,SP-6x5102j8,Rawley Hirtzmann,Rawley,Hirtzmann,Filament,Vikas Kishanrao Thamke,Qualified,5/23/2017
+LE-795-72576,SP-4o9597q4,Pincas Barok,Pincas,Barok,Mark-1,Vishal Shakya,Qualified,5/24/2017
+LE-938-56507,A-0u7085f0,Bambi Quittonden,Bambi,Quittonden,Mark-5,Hitesh Madhukar Patil,Qualified,07-02-2017
+LE-909-14822,SP-4o9597q4,Brice Elen,Brice,Elen,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,04-05-2017
+LE-890-72720,A-5q8351o1,Roz Allcroft,Roz,Allcroft,Frame,Hitesh Madhukar Patil,Qualified,02-03-2017
+LE-508-73133,A-9i3568y3,Andie Weight,Andie,Weight,Print Bed,Hitesh Madhukar Patil,Qualified,04-03-2017
+LE-028-37434,S-3h9809u2,Bran Heffy,Bran,Heffy,Mark-1,Hitesh Madhukar Patil,Qualified,4/30/2017
+LE-107-73711,SP-9o2014z5,Viv Piddington,Viv,Piddington,Mark-1,Vishal Shakya,Qualified,12-02-2017
+LE-307-15966,A-0u7085f0,Issie Nabarro,Issie,Nabarro,Mark-10,Amandeep Singh,Qualified,2/22/2017
+LE-950-06615,S-3h9809u2,Joceline Jantel,Joceline,Jantel,Mark-50,Hitesh Madhukar Patil,Qualified,03-04-2017
+LE-839-33738,A-5q8351o1,Astra Guiver,Astra,Guiver,Controller Board,Amandeep Singh,Qualified,1/29/2018
+LE-351-80809,A-5q8351o1,Flemming Disman,Flemming,Disman,Print Bed,Amandeep Singh,Qualified,4/20/2017
+LE-000-20818,A-5q8351o1,Marie Francey,Marie,Francey,Print Bed,Vikas Kishanrao Thamke,Qualified,2/18/2017
+LE-611-50027,SP-6x5102j8,Elwin Anning,Elwin,Anning,Mark-5,Vikas Kishanrao Thamke,Qualified,07-05-2017
+LE-129-21473,SP-6x5102j8,Linet Pears,Linet,Pears,Controller Board,Hitesh Madhukar Patil,Qualified,05-07-2017
+LE-185-79206,S-3h9809u2,Carmel Graffham,Carmel,Graffham,Controller Board,Amandeep Singh,Qualified,5/26/2017
+LE-732-58001,A-4r4833h7,Gualterio Grono,Gualterio,Grono,Jarvis-1 T,Hitesh Madhukar Patil,Qualified,10/15/2017
+LE-282-56710,SP-6x5102j8,Barnard Whylie,Barnard,Whylie,Mark-5,Amandeep Singh,Qualified,5/14/2017
+LE-996-04121,A-9i3568y3,Hinda Shelp,Hinda,Shelp,Jarvis-5 T,Hitesh Madhukar Patil,Qualified,08-08-2017
+LE-559-37237,SP-6x5102j8,Merissa Arnecke,Merissa,Arnecke,Controller Board,Vikas Kishanrao Thamke,Qualified,11-11-2017
+LE-454-59500,SP-4o9597q4,Lorin Dudleston,Lorin,Dudleston,Controller Board,Amandeep Singh,Qualified,9/30/2017
+LE-846-49002,A-9i3568y3,Sandie Cardenoza,Sandie,Cardenoza,Software and Drivers,Amandeep Singh,Qualified,03-11-2017
+LE-892-43299,A-0u7085f0,Winifield Gotliffe,Winifield,Gotliffe,Belts,Amandeep Singh,Qualified,10-12-2017
+LE-907-66256,SP-7g2488r5,Hastie Freshwater,Hastie,Freshwater,Print Bed,Hitesh Madhukar Patil,Qualified,12-04-2017
+LE-323-48206,A-0u7085f0,Rogers Schouthede,Rogers,Schouthede,Controller Board,Amandeep Singh,Qualified,11/30/2017
+LE-052-70264,SP-6x5102j8,Sayer Vallentin,Sayer,Vallentin,Jarvis-1 T,Vikas Kishanrao Thamke,Qualified,4/21/2017
+LE-580-36508,S-3h9809u2,Britta Ciabatteri,Britta,Ciabatteri,Mark-5,Vikas Kishanrao Thamke,Qualified,10-09-2017
+LE-937-55686,SP-6x5102j8,Putnem Pollett,Putnem,Pollett,Mark-1,Vikas Kishanrao Thamke,Qualified,2/14/2017
+LE-913-01019,A-1s3102u0,Brennan Clitherow,Brennan,Clitherow,Filament,Vishal Shakya,Qualified,02-05-2017
+LE-931-51479,SP-6x5102j8,Janel Christol,Janel,Christol,Mark-50,Amandeep Singh,Qualified,05-05-2017
+LE-363-75725,SP-9o2014z5,Celestyna Stratton,Celestyna,Stratton,Software and Drivers,Hitesh Madhukar Patil,Qualified,05-05-2017
+LE-725-30685,A-1s3102u0,Lotta Fellow,Lotta,Fellow,Print Bed,Vishal Shakya,Qualified,02-04-2017
+LE-279-81490,A-0u7085f0,Tamma Enion,Tamma,Enion,Mark-1,Hitesh Madhukar Patil,Qualified,09-01-2017
+LE-196-25763,SP-9o2014z5,Noll Sauter,Noll,Sauter,Frame,Vishal Shakya,Qualified,08-08-2017
+LE-316-82318,SP-9o2014z5,Doug Doogue,Doug,Doogue,Mark-50,Hitesh Madhukar Patil,Qualified,10-10-2017
+LE-783-67352,A-9o2147a8,Ruthe Beardon,Ruthe,Beardon,Mark-50,Vikas Kishanrao Thamke,Qualified,12/14/2017
+LE-676-27277,SP-1j3802q0,Sax Dameisele,Sax,Dameisele,Print Bed,Hitesh Madhukar Patil,Qualified,5/26/2017
+LE-989-78863,A-9i3568y3,Zita Dering,Zita,Dering,Jarvis-5 T,Vishal Shakya,Qualified,6/29/2017
+LE-010-83248,A-4r4833h7,Omar Greenham,Omar,Greenham,Mark-50,Vishal Shakya,Qualified,11/17/2017
+LE-553-23067,A-1s3102u0,Wallis Musker,Wallis,Musker,Jarvis-1 T,Amandeep Singh,Qualified,2/21/2018
+LE-976-73644,SP-4o9597q4,Aloisia Fowden,Aloisia,Fowden,Belts,Hitesh Madhukar Patil,Qualified,11/29/2017
+LE-920-41273,A-0u7085f0,Erhart Gorhardt,Erhart,Gorhardt,Controller Board,Amandeep Singh,Qualified,2/19/2018
+LE-992-28774,SP-6x5102j8,Sebastien Verlander,Sebastien,Verlander,Controller Board,Vishal Shakya,Qualified,3/15/2017
+LE-117-72183,A-9o2147a8,Carlota Tassell,Carlota,Tassell,Mark-50,Vikas Kishanrao Thamke,Qualified,3/21/2017
+LE-462-39252,A-9i3568y3,Rube Wace,Rube,Wace,Filament,Vikas Kishanrao Thamke,Qualified,02-05-2018
+LE-225-11118,A-5q8351o1,Dannel Guppy,Dannel,Guppy,Software and Drivers,Amandeep Singh,Qualified,11/15/2017
+LE-680-97343,SP-7g2488r5,Bess Hawkins,Bess,Hawkins,Mark-5,Amandeep Singh,Qualified,5/17/2017
+LE-237-65888,SP-9o2014z5,Corabel Gerrans,Corabel,Gerrans,Print Bed,Vikas Kishanrao Thamke,Qualified,03-02-2017
+LE-482-12775,S-3h9809u2,Gregorius Mathewson,Gregorius,Mathewson,Mark-5,Hitesh Madhukar Patil,Qualified,6/17/2017
+LE-873-72580,SP-4o9597q4,Maurie Enstone,Maurie,Enstone,Filament,Vikas Kishanrao Thamke,Qualified,01-02-2018
+LE-315-86803,S-3h9809u2,Jerald Croker,Jerald,Croker,Controller Board,Vikas Kishanrao Thamke,Qualified,5/15/2017
+LE-032-78905,A-5q8351o1,Julissa Wank,Julissa,Wank,Controller Board,Amandeep Singh,Qualified,8/20/2017
+LE-753-57109,A-9i3568y3,Joline Hodges,Joline,Hodges,Mark-10,Hitesh Madhukar Patil,Qualified,08-08-2017
+LE-582-28746,A-9i3568y3,Stacia Muxworthy,Stacia,Muxworthy,Controller Board,Amandeep Singh,Qualified,07-02-2017
+LE-598-44352,A-9i3568y3,George Crocombe,George,Crocombe,Mark-10,Hitesh Madhukar Patil,Qualified,12/27/2017
+LE-816-84641,A-1s3102u0,Aviva Okroy,Aviva,Okroy,Software and Drivers,Hitesh Madhukar Patil,Qualified,5/26/2017
+LE-863-65347,A-9i3568y3,Maury Micka,Maury,Micka,Frame,Vishal Shakya,Qualified,12-07-2017
+LE-775-35556,SP-4o9597q4,Tripp Elt,Tripp,Elt,Jarvis-5 T,Vishal Shakya,Qualified,05-12-2017
